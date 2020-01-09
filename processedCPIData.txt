@@ -1,0 +1,1860 @@
+1988,Newfoundland and Labrador,Health care,77.0583333333333
+1989,Newfoundland and Labrador,Health care,80.8583333333333
+1990,Newfoundland and Labrador,Health care,83.8916666666667
+1991,Newfoundland and Labrador,Health care,88.2083333333333
+1992,Newfoundland and Labrador,Health care,90.9416666666667
+1993,Newfoundland and Labrador,Health care,93.2666666666667
+1994,Newfoundland and Labrador,Health care,93.6333333333333
+1995,Newfoundland and Labrador,Health care,93.2666666666667
+1996,Newfoundland and Labrador,Health care,92.2916666666667
+1997,Newfoundland and Labrador,Health care,92.3416666666667
+1998,Newfoundland and Labrador,Health care,94.0333333333333
+1999,Newfoundland and Labrador,Health care,95.425
+2000,Newfoundland and Labrador,Health care,97.3166666666667
+2001,Newfoundland and Labrador,Health care,98.9666666666667
+2002,Newfoundland and Labrador,Health care,100.016666666667
+2003,Newfoundland and Labrador,Health care,101.075
+2004,Newfoundland and Labrador,Health care,100.825
+2005,Newfoundland and Labrador,Health care,101.741666666667
+2006,Newfoundland and Labrador,Health care,103.9
+2007,Newfoundland and Labrador,Health care,105.491666666667
+2008,Newfoundland and Labrador,Health care,107.633333333333
+2009,Newfoundland and Labrador,Health care,113.891666666667
+2010,Newfoundland and Labrador,Health care,113.4
+2011,Newfoundland and Labrador,Health care,114.275
+2012,Newfoundland and Labrador,Health care,114.791666666667
+2013,Newfoundland and Labrador,Health care,111.675
+2014,Newfoundland and Labrador,Health care,111.508333333333
+2015,Newfoundland and Labrador,Health care,112.333333333333
+2016,Newfoundland and Labrador,Health care,114.208333333333
+2017,Newfoundland and Labrador,Health care,116.116666666667
+2018,Newfoundland and Labrador,Health care,116.291666666667
+1988,Prince Edward Island,Health care,70.3083333333333
+1989,Prince Edward Island,Health care,73.5166666666667
+1990,Prince Edward Island,Health care,77.9833333333333
+1991,Prince Edward Island,Health care,82.4083333333333
+1992,Prince Edward Island,Health care,84.9083333333333
+1993,Prince Edward Island,Health care,86.6333333333333
+1994,Prince Edward Island,Health care,87.25
+1995,Prince Edward Island,Health care,86.5916666666667
+1996,Prince Edward Island,Health care,87.0583333333333
+1997,Prince Edward Island,Health care,88.2833333333333
+1998,Prince Edward Island,Health care,90.6666666666667
+1999,Prince Edward Island,Health care,91.625
+2000,Prince Edward Island,Health care,94.9
+2001,Prince Edward Island,Health care,97.9833333333333
+2002,Prince Edward Island,Health care,100.008333333333
+2003,Prince Edward Island,Health care,101.408333333333
+2004,Prince Edward Island,Health care,101.95
+2005,Prince Edward Island,Health care,103.591666666667
+2006,Prince Edward Island,Health care,104.891666666667
+2007,Prince Edward Island,Health care,105.775
+2008,Prince Edward Island,Health care,106.9
+2009,Prince Edward Island,Health care,113.875
+2010,Prince Edward Island,Health care,112.225
+2011,Prince Edward Island,Health care,112.308333333333
+2012,Prince Edward Island,Health care,113.325
+2013,Prince Edward Island,Health care,110.516666666667
+2014,Prince Edward Island,Health care,110.725
+2015,Prince Edward Island,Health care,112.883333333333
+2016,Prince Edward Island,Health care,115.416666666667
+2017,Prince Edward Island,Health care,117.433333333333
+2018,Prince Edward Island,Health care,119.625
+1988,Nova Scotia,Health care,73.8083333333334
+1989,Nova Scotia,Health care,76.9833333333333
+1990,Nova Scotia,Health care,81.1583333333333
+1991,Nova Scotia,Health care,85.825
+1992,Nova Scotia,Health care,87.525
+1993,Nova Scotia,Health care,89.3
+1994,Nova Scotia,Health care,90.7166666666667
+1995,Nova Scotia,Health care,91.1666666666667
+1996,Nova Scotia,Health care,91.6333333333333
+1997,Nova Scotia,Health care,90.7083333333333
+1998,Nova Scotia,Health care,92.2166666666667
+1999,Nova Scotia,Health care,93.4333333333333
+2000,Nova Scotia,Health care,94.775
+2001,Nova Scotia,Health care,97.875
+2002,Nova Scotia,Health care,99.9916666666667
+2003,Nova Scotia,Health care,101.825
+2004,Nova Scotia,Health care,103.675
+2005,Nova Scotia,Health care,106.275
+2006,Nova Scotia,Health care,108.008333333333
+2007,Nova Scotia,Health care,109.875
+2008,Nova Scotia,Health care,110.808333333333
+2009,Nova Scotia,Health care,113.841666666667
+2010,Nova Scotia,Health care,114.408333333333
+2011,Nova Scotia,Health care,115.333333333333
+2012,Nova Scotia,Health care,115.05
+2013,Nova Scotia,Health care,113.991666666667
+2014,Nova Scotia,Health care,114.283333333333
+2015,Nova Scotia,Health care,115.416666666667
+2016,Nova Scotia,Health care,117.466666666667
+2017,Nova Scotia,Health care,118.975
+2018,Nova Scotia,Health care,120.116666666667
+1988,New Brunswick,Health care,69.8333333333333
+1989,New Brunswick,Health care,73.6333333333333
+1990,New Brunswick,Health care,79.1166666666667
+1991,New Brunswick,Health care,84.7
+1992,New Brunswick,Health care,88.4916666666667
+1993,New Brunswick,Health care,90.4833333333333
+1994,New Brunswick,Health care,92.425
+1995,New Brunswick,Health care,92.775
+1996,New Brunswick,Health care,93.6166666666667
+1997,New Brunswick,Health care,94.1583333333333
+1998,New Brunswick,Health care,95
+1999,New Brunswick,Health care,96.5416666666667
+2000,New Brunswick,Health care,97.6583333333333
+2001,New Brunswick,Health care,99.4166666666667
+2002,New Brunswick,Health care,100
+2003,New Brunswick,Health care,101.466666666667
+2004,New Brunswick,Health care,102.491666666667
+2005,New Brunswick,Health care,104.016666666667
+2006,New Brunswick,Health care,105.391666666667
+2007,New Brunswick,Health care,106.416666666667
+2008,New Brunswick,Health care,106.975
+2009,New Brunswick,Health care,113.241666666667
+2010,New Brunswick,Health care,114.708333333333
+2011,New Brunswick,Health care,114.7
+2012,New Brunswick,Health care,114.475
+2013,New Brunswick,Health care,110.558333333333
+2014,New Brunswick,Health care,110.566666666667
+2015,New Brunswick,Health care,111.916666666667
+2016,New Brunswick,Health care,113.466666666667
+2017,New Brunswick,Health care,115.241666666667
+2018,New Brunswick,Health care,115.575
+1988,Quebec,Health care,68.35
+1989,Quebec,Health care,72.2166666666667
+1990,Quebec,Health care,75.9083333333333
+1991,Quebec,Health care,79.2416666666667
+1992,Quebec,Health care,83.05
+1993,Quebec,Health care,85.4333333333333
+1994,Quebec,Health care,86.3833333333333
+1995,Quebec,Health care,87.9833333333333
+1996,Quebec,Health care,89.1333333333333
+1997,Quebec,Health care,90.9916666666667
+1998,Quebec,Health care,93.3083333333333
+1999,Quebec,Health care,95.325
+2000,Quebec,Health care,97.4333333333333
+2001,Quebec,Health care,99.3333333333333
+2002,Quebec,Health care,99.9916666666667
+2003,Quebec,Health care,101.441666666667
+2004,Quebec,Health care,103.925
+2005,Quebec,Health care,105.775
+2006,Quebec,Health care,107.308333333333
+2007,Quebec,Health care,108.766666666667
+2008,Quebec,Health care,110.4
+2009,Quebec,Health care,112.633333333333
+2010,Quebec,Health care,115.25
+2011,Quebec,Health care,116.608333333333
+2012,Quebec,Health care,118.308333333333
+2013,Quebec,Health care,119.291666666667
+2014,Quebec,Health care,120.425
+2015,Quebec,Health care,121.966666666667
+2016,Quebec,Health care,123.416666666667
+2017,Quebec,Health care,124.483333333333
+2018,Quebec,Health care,124.85
+1988,Ontario,Health care,68.3416666666667
+1989,Ontario,Health care,72.2083333333333
+1990,Ontario,Health care,76.5333333333333
+1991,Ontario,Health care,80.6083333333333
+1992,Ontario,Health care,83.2416666666667
+1993,Ontario,Health care,85.475
+1994,Ontario,Health care,86.6333333333333
+1995,Ontario,Health care,86.6916666666667
+1996,Ontario,Health care,87.3916666666667
+1997,Ontario,Health care,88.625
+1998,Ontario,Health care,90.675
+1999,Ontario,Health care,93.2166666666667
+2000,Ontario,Health care,95.15
+2001,Ontario,Health care,97.875
+2002,Ontario,Health care,99.9833333333333
+2003,Ontario,Health care,101.975
+2004,Ontario,Health care,103.866666666667
+2005,Ontario,Health care,107.783333333333
+2006,Ontario,Health care,110.383333333333
+2007,Ontario,Health care,112.925
+2008,Ontario,Health care,114.866666666667
+2009,Ontario,Health care,116.95
+2010,Ontario,Health care,118.466666666667
+2011,Ontario,Health care,120.208333333333
+2012,Ontario,Health care,120.066666666667
+2013,Ontario,Health care,120.691666666667
+2014,Ontario,Health care,122.433333333333
+2015,Ontario,Health care,124.233333333333
+2016,Ontario,Health care,125.675
+2017,Ontario,Health care,128.983333333333
+2018,Ontario,Health care,130.166666666667
+1988,Manitoba,Health care,68.475
+1989,Manitoba,Health care,72.3416666666667
+1990,Manitoba,Health care,75.225
+1991,Manitoba,Health care,79.225
+1992,Manitoba,Health care,82.1333333333333
+1993,Manitoba,Health care,83.4
+1994,Manitoba,Health care,84.4333333333333
+1995,Manitoba,Health care,85.45
+1996,Manitoba,Health care,86.8166666666667
+1997,Manitoba,Health care,87.7916666666667
+1998,Manitoba,Health care,89.125
+1999,Manitoba,Health care,90.4333333333333
+2000,Manitoba,Health care,94.1916666666667
+2001,Manitoba,Health care,97.55
+2002,Manitoba,Health care,99.9833333333333
+2003,Manitoba,Health care,102.808333333333
+2004,Manitoba,Health care,104.758333333333
+2005,Manitoba,Health care,106.4
+2006,Manitoba,Health care,107.85
+2007,Manitoba,Health care,109.291666666667
+2008,Manitoba,Health care,111.091666666667
+2009,Manitoba,Health care,114.375
+2010,Manitoba,Health care,115.141666666667
+2011,Manitoba,Health care,115.95
+2012,Manitoba,Health care,116.291666666667
+2013,Manitoba,Health care,114.225
+2014,Manitoba,Health care,114.241666666667
+2015,Manitoba,Health care,115.741666666667
+2016,Manitoba,Health care,117.258333333333
+2017,Manitoba,Health care,119.758333333333
+2018,Manitoba,Health care,121.7
+1988,Saskatchewan,Health care,75.65
+1989,Saskatchewan,Health care,78.3333333333333
+1990,Saskatchewan,Health care,81.375
+1991,Saskatchewan,Health care,85.075
+1992,Saskatchewan,Health care,88.1166666666667
+1993,Saskatchewan,Health care,91.5333333333333
+1994,Saskatchewan,Health care,92.5416666666667
+1995,Saskatchewan,Health care,93.7333333333333
+1996,Saskatchewan,Health care,94.0833333333333
+1997,Saskatchewan,Health care,91.5166666666667
+1998,Saskatchewan,Health care,93.8916666666667
+1999,Saskatchewan,Health care,94.3166666666667
+2000,Saskatchewan,Health care,96.2333333333333
+2001,Saskatchewan,Health care,99.4
+2002,Saskatchewan,Health care,99.9916666666667
+2003,Saskatchewan,Health care,101.408333333333
+2004,Saskatchewan,Health care,102.291666666667
+2005,Saskatchewan,Health care,103.883333333333
+2006,Saskatchewan,Health care,105.925
+2007,Saskatchewan,Health care,108.225
+2008,Saskatchewan,Health care,108.241666666667
+2009,Saskatchewan,Health care,114.25
+2010,Saskatchewan,Health care,114.808333333333
+2011,Saskatchewan,Health care,113.716666666667
+2012,Saskatchewan,Health care,114.116666666667
+2013,Saskatchewan,Health care,114.875
+2014,Saskatchewan,Health care,116.3
+2015,Saskatchewan,Health care,118.175
+2016,Saskatchewan,Health care,119.083333333333
+2017,Saskatchewan,Health care,120.85
+2018,Saskatchewan,Health care,123.033333333333
+1988,Alberta,Health care,68.1833333333333
+1989,Alberta,Health care,72.0166666666667
+1990,Alberta,Health care,76.3166666666667
+1991,Alberta,Health care,81.1583333333333
+1992,Alberta,Health care,83.7416666666666
+1993,Alberta,Health care,86.05
+1994,Alberta,Health care,87.0416666666667
+1995,Alberta,Health care,86.55
+1996,Alberta,Health care,87.825
+1997,Alberta,Health care,90.2083333333333
+1998,Alberta,Health care,91.5833333333333
+1999,Alberta,Health care,93.35
+2000,Alberta,Health care,95.4833333333333
+2001,Alberta,Health care,97.975
+2002,Alberta,Health care,100
+2003,Alberta,Health care,101.875
+2004,Alberta,Health care,103.283333333333
+2005,Alberta,Health care,105.708333333333
+2006,Alberta,Health care,108.383333333333
+2007,Alberta,Health care,111.075
+2008,Alberta,Health care,114.566666666667
+2009,Alberta,Health care,121.508333333333
+2010,Alberta,Health care,131.625
+2011,Alberta,Health care,134.316666666667
+2012,Alberta,Health care,136.841666666667
+2013,Alberta,Health care,136.341666666667
+2014,Alberta,Health care,137.891666666667
+2015,Alberta,Health care,139.766666666667
+2016,Alberta,Health care,141.95
+2017,Alberta,Health care,143.641666666667
+2018,Alberta,Health care,144.091666666667
+1988,British Columbia,Health care,69.25
+1989,British Columbia,Health care,71.5416666666667
+1990,British Columbia,Health care,73.7916666666667
+1991,British Columbia,Health care,77.6916666666667
+1992,British Columbia,Health care,80.0166666666667
+1993,British Columbia,Health care,82.4833333333333
+1994,British Columbia,Health care,84.3166666666667
+1995,British Columbia,Health care,85.0083333333333
+1996,British Columbia,Health care,85.8916666666667
+1997,British Columbia,Health care,86.975
+1998,British Columbia,Health care,89.4833333333333
+1999,British Columbia,Health care,91.4666666666667
+2000,British Columbia,Health care,94.0583333333333
+2001,British Columbia,Health care,97.0416666666667
+2002,British Columbia,Health care,100
+2003,British Columbia,Health care,102.016666666667
+2004,British Columbia,Health care,103.733333333333
+2005,British Columbia,Health care,106.216666666667
+2006,British Columbia,Health care,109.033333333333
+2007,British Columbia,Health care,111.216666666667
+2008,British Columbia,Health care,113.8
+2009,British Columbia,Health care,116.6
+2010,British Columbia,Health care,118.391666666667
+2011,British Columbia,Health care,119.616666666667
+2012,British Columbia,Health care,119.55
+2013,British Columbia,Health care,117.508333333333
+2014,British Columbia,Health care,117.033333333333
+2015,British Columbia,Health care,117.6
+2016,British Columbia,Health care,119.333333333333
+2017,British Columbia,Health care,122.408333333333
+2018,British Columbia,Health care,124.45
+1988,Newfoundland and Labrador,Education,44.0583333333333
+1989,Newfoundland and Labrador,Education,46.55
+1990,Newfoundland and Labrador,Education,49.675
+1991,Newfoundland and Labrador,Education,53.4666666666667
+1992,Newfoundland and Labrador,Education,58.15
+1993,Newfoundland and Labrador,Education,63.6083333333333
+1994,Newfoundland and Labrador,Education,69.425
+1995,Newfoundland and Labrador,Education,73.5583333333333
+1996,Newfoundland and Labrador,Education,79.3833333333333
+1997,Newfoundland and Labrador,Education,89.6083333333333
+1998,Newfoundland and Labrador,Education,98.0333333333333
+1999,Newfoundland and Labrador,Education,100.716666666667
+2000,Newfoundland and Labrador,Education,102.925
+2001,Newfoundland and Labrador,Education,103.333333333333
+2002,Newfoundland and Labrador,Education,100
+2003,Newfoundland and Labrador,Education,97.1416666666667
+2004,Newfoundland and Labrador,Education,97.2
+2005,Newfoundland and Labrador,Education,99.1416666666667
+2006,Newfoundland and Labrador,Education,99.6083333333333
+2007,Newfoundland and Labrador,Education,100.066666666667
+2008,Newfoundland and Labrador,Education,100.508333333333
+2009,Newfoundland and Labrador,Education,101.741666666667
+2010,Newfoundland and Labrador,Education,104.3
+2011,Newfoundland and Labrador,Education,105.85
+2012,Newfoundland and Labrador,Education,106.766666666667
+2013,Newfoundland and Labrador,Education,108.133333333333
+2014,Newfoundland and Labrador,Education,109.366666666667
+2015,Newfoundland and Labrador,Education,110.916666666667
+2016,Newfoundland and Labrador,Education,112.675
+2017,Newfoundland and Labrador,Education,113.516666666667
+2018,Newfoundland and Labrador,Education,114.708333333333
+1988,Prince Edward Island,Education,46.275
+1989,Prince Edward Island,Education,48.7083333333333
+1990,Prince Edward Island,Education,51.1166666666667
+1991,Prince Edward Island,Education,55.2666666666667
+1992,Prince Edward Island,Education,59.7333333333333
+1993,Prince Edward Island,Education,63.8833333333333
+1994,Prince Edward Island,Education,67.9583333333333
+1995,Prince Edward Island,Education,71.4583333333333
+1996,Prince Edward Island,Education,74.7916666666667
+1997,Prince Edward Island,Education,79.3916666666667
+1998,Prince Edward Island,Education,84.3916666666667
+1999,Prince Edward Island,Education,88.125
+2000,Prince Edward Island,Education,91.3
+2001,Prince Edward Island,Education,94.7166666666667
+2002,Prince Edward Island,Education,100
+2003,Prince Edward Island,Education,104.766666666667
+2004,Prince Edward Island,Education,109.933333333333
+2005,Prince Edward Island,Education,115.483333333333
+2006,Prince Edward Island,Education,120.791666666667
+2007,Prince Edward Island,Education,123
+2008,Prince Edward Island,Education,120.083333333333
+2009,Prince Edward Island,Education,121.95
+2010,Prince Edward Island,Education,125.916666666667
+2011,Prince Edward Island,Education,131.183333333333
+2012,Prince Edward Island,Education,135.5
+2013,Prince Edward Island,Education,140.558333333333
+2014,Prince Edward Island,Education,144.516666666667
+2015,Prince Edward Island,Education,148.458333333333
+2016,Prince Edward Island,Education,152.758333333333
+2017,Prince Edward Island,Education,156.775
+2018,Prince Edward Island,Education,160.625
+1988,Nova Scotia,Education,39.65
+1989,Nova Scotia,Education,41.925
+1990,Nova Scotia,Education,44.5083333333333
+1991,Nova Scotia,Education,48.6666666666667
+1992,Nova Scotia,Education,53.025
+1993,Nova Scotia,Education,56.9166666666667
+1994,Nova Scotia,Education,61.4416666666667
+1995,Nova Scotia,Education,66.025
+1996,Nova Scotia,Education,70.725
+1997,Nova Scotia,Education,75.5833333333333
+1998,Nova Scotia,Education,80.2583333333333
+1999,Nova Scotia,Education,83.95
+2000,Nova Scotia,Education,87.9833333333333
+2001,Nova Scotia,Education,93.7916666666667
+2002,Nova Scotia,Education,99.9916666666667
+2003,Nova Scotia,Education,106.083333333333
+2004,Nova Scotia,Education,111.85
+2005,Nova Scotia,Education,117.866666666667
+2006,Nova Scotia,Education,122.358333333333
+2007,Nova Scotia,Education,124.533333333333
+2008,Nova Scotia,Education,120.633333333333
+2009,Nova Scotia,Education,118.933333333333
+2010,Nova Scotia,Education,117.583333333333
+2011,Nova Scotia,Education,117.4
+2012,Nova Scotia,Education,120.808333333333
+2013,Nova Scotia,Education,125.2
+2014,Nova Scotia,Education,129.833333333333
+2015,Nova Scotia,Education,134.716666666667
+2016,Nova Scotia,Education,139.391666666667
+2017,Nova Scotia,Education,145.583333333333
+2018,Nova Scotia,Education,152.425
+1988,New Brunswick,Education,44.4333333333333
+1989,New Brunswick,Education,47.2166666666667
+1990,New Brunswick,Education,49.975
+1991,New Brunswick,Education,54.3666666666667
+1992,New Brunswick,Education,57.925
+1993,New Brunswick,Education,61.8666666666667
+1994,New Brunswick,Education,63.9333333333333
+1995,New Brunswick,Education,66.1333333333333
+1996,New Brunswick,Education,71.15
+1997,New Brunswick,Education,76.2833333333333
+1998,New Brunswick,Education,81.2833333333333
+1999,New Brunswick,Education,84.325
+2000,New Brunswick,Education,88.7166666666667
+2001,New Brunswick,Education,94.0333333333333
+2002,New Brunswick,Education,99.9916666666667
+2003,New Brunswick,Education,105.566666666667
+2004,New Brunswick,Education,110.683333333333
+2005,New Brunswick,Education,116.033333333333
+2006,New Brunswick,Education,121.166666666667
+2007,New Brunswick,Education,127.483333333333
+2008,New Brunswick,Education,130.65
+2009,New Brunswick,Education,131.133333333333
+2010,New Brunswick,Education,132.533333333333
+2011,New Brunswick,Education,135.233333333333
+2012,New Brunswick,Education,139.533333333333
+2013,New Brunswick,Education,143.966666666667
+2014,New Brunswick,Education,149
+2015,New Brunswick,Education,152.991666666667
+2016,New Brunswick,Education,156.258333333333
+2017,New Brunswick,Education,161.25
+2018,New Brunswick,Education,166.108333333333
+1988,Quebec,Education,40.1916666666667
+1989,Quebec,Education,41.1916666666667
+1990,Quebec,Education,47.25
+1991,Quebec,Education,65.4583333333333
+1992,Quebec,Education,78.475
+1993,Quebec,Education,84.1666666666667
+1994,Quebec,Education,89.1916666666667
+1995,Quebec,Education,94.3916666666667
+1996,Quebec,Education,94.9666666666667
+1997,Quebec,Education,95.3833333333333
+1998,Quebec,Education,95.6583333333333
+1999,Quebec,Education,97.1916666666667
+2000,Quebec,Education,97.1833333333333
+2001,Quebec,Education,98.65
+2002,Quebec,Education,99.9916666666667
+2003,Quebec,Education,101.633333333333
+2004,Quebec,Education,103.441666666667
+2005,Quebec,Education,105.275
+2006,Quebec,Education,106.516666666667
+2007,Quebec,Education,108.183333333333
+2008,Quebec,Education,112.291666666667
+2009,Quebec,Education,118.125
+2010,Quebec,Education,124.141666666667
+2011,Quebec,Education,131.341666666667
+2012,Quebec,Education,136.3
+2013,Quebec,Education,138.391666666667
+2014,Quebec,Education,141.875
+2015,Quebec,Education,145.108333333333
+2016,Quebec,Education,147.833333333333
+2017,Quebec,Education,150.466666666667
+2018,Quebec,Education,154.233333333333
+1988,Ontario,Education,36.45
+1989,Ontario,Education,38.8
+1990,Ontario,Education,41.9166666666667
+1991,Ontario,Education,45.325
+1992,Ontario,Education,48.1416666666667
+1993,Ontario,Education,50.6166666666667
+1994,Ontario,Education,53.7833333333333
+1995,Ontario,Education,57.9166666666667
+1996,Ontario,Education,63.975
+1997,Ontario,Education,72.4166666666667
+1998,Ontario,Education,78.8083333333333
+1999,Ontario,Education,86.025
+2000,Ontario,Education,92.275
+2001,Ontario,Education,96.1
+2002,Ontario,Education,100
+2003,Ontario,Education,103.525
+2004,Ontario,Education,106.866666666667
+2005,Ontario,Education,107.941666666667
+2006,Ontario,Education,110.358333333333
+2007,Ontario,Education,115.366666666667
+2008,Ontario,Education,118.983333333333
+2009,Ontario,Education,123.7
+2010,Ontario,Education,129.316666666667
+2011,Ontario,Education,135.208333333333
+2012,Ontario,Education,141.475
+2013,Ontario,Education,147.35
+2014,Ontario,Education,152.7
+2015,Ontario,Education,158.275
+2016,Ontario,Education,164.308333333333
+2017,Ontario,Education,169.191666666667
+2018,Ontario,Education,175.375
+1988,Manitoba,Education,45.5416666666667
+1989,Manitoba,Education,48.9333333333333
+1990,Manitoba,Education,53.1333333333333
+1991,Manitoba,Education,58.8333333333333
+1992,Manitoba,Education,65.3583333333333
+1993,Manitoba,Education,71.4583333333333
+1994,Manitoba,Education,74.7
+1995,Manitoba,Education,78.075
+1996,Manitoba,Education,82.1583333333333
+1997,Manitoba,Education,87.0166666666667
+1998,Manitoba,Education,91.875
+1999,Manitoba,Education,96.2
+2000,Manitoba,Education,99.1
+2001,Manitoba,Education,98.3916666666667
+2002,Manitoba,Education,100.025
+2003,Manitoba,Education,101.291666666667
+2004,Manitoba,Education,102.266666666667
+2005,Manitoba,Education,103.616666666667
+2006,Manitoba,Education,105.358333333333
+2007,Manitoba,Education,108.716666666667
+2008,Manitoba,Education,111.066666666667
+2009,Manitoba,Education,113.891666666667
+2010,Manitoba,Education,119.083333333333
+2011,Manitoba,Education,124.35
+2012,Manitoba,Education,127.4
+2013,Manitoba,Education,130.516666666667
+2014,Manitoba,Education,133.458333333333
+2015,Manitoba,Education,136.916666666667
+2016,Manitoba,Education,139.658333333333
+2017,Manitoba,Education,141.825
+2018,Manitoba,Education,145.516666666667
+1988,Saskatchewan,Education,39.4833333333333
+1989,Saskatchewan,Education,41.8416666666667
+1990,Saskatchewan,Education,44.3666666666667
+1991,Saskatchewan,Education,49.2833333333333
+1992,Saskatchewan,Education,54.5333333333333
+1993,Saskatchewan,Education,59.2333333333333
+1994,Saskatchewan,Education,63.4166666666667
+1995,Saskatchewan,Education,66.95
+1996,Saskatchewan,Education,70.1
+1997,Saskatchewan,Education,73.35
+1998,Saskatchewan,Education,78.35
+1999,Saskatchewan,Education,82.5916666666667
+2000,Saskatchewan,Education,85.2666666666667
+2001,Saskatchewan,Education,91.725
+2002,Saskatchewan,Education,99.9833333333333
+2003,Saskatchewan,Education,107.008333333333
+2004,Saskatchewan,Education,112.808333333333
+2005,Saskatchewan,Education,115.966666666667
+2006,Saskatchewan,Education,116.558333333333
+2007,Saskatchewan,Education,117.483333333333
+2008,Saskatchewan,Education,119.033333333333
+2009,Saskatchewan,Education,122.6
+2010,Saskatchewan,Education,127.966666666667
+2011,Saskatchewan,Education,132.5
+2012,Saskatchewan,Education,136.766666666667
+2013,Saskatchewan,Education,142.9
+2014,Saskatchewan,Education,148.366666666667
+2015,Saskatchewan,Education,153.483333333333
+2016,Saskatchewan,Education,157.483333333333
+2017,Saskatchewan,Education,161.225
+2018,Saskatchewan,Education,165.408333333333
+1988,Alberta,Education,35.6166666666667
+1989,Alberta,Education,37.0666666666667
+1990,Alberta,Education,40.2083333333333
+1991,Alberta,Education,44.7
+1992,Alberta,Education,48.9416666666667
+1993,Alberta,Education,54.9583333333333
+1994,Alberta,Education,61.6666666666667
+1995,Alberta,Education,67.6166666666667
+1996,Alberta,Education,73.6333333333333
+1997,Alberta,Education,78.4083333333333
+1998,Alberta,Education,83.0916666666667
+1999,Alberta,Education,87.9333333333333
+2000,Alberta,Education,92.0333333333333
+2001,Alberta,Education,96.625
+2002,Alberta,Education,100.016666666667
+2003,Alberta,Education,103.766666666667
+2004,Alberta,Education,110.458333333333
+2005,Alberta,Education,115.391666666667
+2006,Alberta,Education,116.191666666667
+2007,Alberta,Education,115.516666666667
+2008,Alberta,Education,120.033333333333
+2009,Alberta,Education,124.8
+2010,Alberta,Education,129.9
+2011,Alberta,Education,130.475
+2012,Alberta,Education,134.708333333333
+2013,Alberta,Education,138.266666666667
+2014,Alberta,Education,140.3
+2015,Alberta,Education,143.233333333333
+2016,Alberta,Education,145.066666666667
+2017,Alberta,Education,146.266666666667
+2018,Alberta,Education,147.208333333333
+1988,British Columbia,Education,53.3833333333333
+1989,British Columbia,Education,56.3333333333333
+1990,British Columbia,Education,60.3916666666667
+1991,British Columbia,Education,65.2166666666667
+1992,British Columbia,Education,69.3666666666667
+1993,British Columbia,Education,71.8916666666667
+1994,British Columbia,Education,76.9
+1995,British Columbia,Education,82.4166666666667
+1996,British Columbia,Education,86.1666666666667
+1997,British Columbia,Education,87.625
+1998,British Columbia,Education,89.9333333333333
+1999,British Columbia,Education,91.6083333333333
+2000,British Columbia,Education,93.3333333333333
+2001,British Columbia,Education,94.0583333333333
+2002,British Columbia,Education,100.016666666667
+2003,British Columbia,Education,116.558333333333
+2004,British Columbia,Education,135.933333333333
+2005,British Columbia,Education,145.883333333333
+2006,British Columbia,Education,149.258333333333
+2007,British Columbia,Education,152.525
+2008,British Columbia,Education,156.083333333333
+2009,British Columbia,Education,160.333333333333
+2010,British Columbia,Education,164.35
+2011,British Columbia,Education,168.733333333333
+2012,British Columbia,Education,172.075
+2013,British Columbia,Education,175.933333333333
+2014,British Columbia,Education,180.208333333333
+2015,British Columbia,Education,184.358333333333
+2016,British Columbia,Education,187.7
+2017,British Columbia,Education,191.583333333333
+2018,British Columbia,Education,195.5
+1988,Newfoundland and Labrador,Men's clothing,85
+1989,Newfoundland and Labrador,Men's clothing,87.6166666666667
+1990,Newfoundland and Labrador,Men's clothing,89.9333333333333
+1991,Newfoundland and Labrador,Men's clothing,97.0833333333333
+1992,Newfoundland and Labrador,Men's clothing,101.166666666667
+1993,Newfoundland and Labrador,Men's clothing,101.533333333333
+1994,Newfoundland and Labrador,Men's clothing,100.841666666667
+1995,Newfoundland and Labrador,Men's clothing,100.466666666667
+1996,Newfoundland and Labrador,Men's clothing,98.4083333333333
+1997,Newfoundland and Labrador,Men's clothing,97.8333333333333
+1998,Newfoundland and Labrador,Men's clothing,98.6583333333333
+1999,Newfoundland and Labrador,Men's clothing,102.116666666667
+2000,Newfoundland and Labrador,Men's clothing,101.8
+2001,Newfoundland and Labrador,Men's clothing,102.116666666667
+2002,Newfoundland and Labrador,Men's clothing,100.008333333333
+2003,Newfoundland and Labrador,Men's clothing,97.8
+2004,Newfoundland and Labrador,Men's clothing,96.8166666666667
+2005,Newfoundland and Labrador,Men's clothing,95.9666666666667
+2006,Newfoundland and Labrador,Men's clothing,97.3416666666667
+2007,Newfoundland and Labrador,Men's clothing,96.9583333333333
+2008,Newfoundland and Labrador,Men's clothing,95.6416666666667
+2009,Newfoundland and Labrador,Men's clothing,92.4916666666667
+2010,Newfoundland and Labrador,Men's clothing,93.2083333333333
+2011,Newfoundland and Labrador,Men's clothing,96.6083333333333
+2012,Newfoundland and Labrador,Men's clothing,93.9916666666667
+2013,Newfoundland and Labrador,Men's clothing,98.2666666666667
+2014,Newfoundland and Labrador,Men's clothing,98.8666666666667
+2015,Newfoundland and Labrador,Men's clothing,99.4666666666667
+2016,Newfoundland and Labrador,Men's clothing,98.5333333333333
+2017,Newfoundland and Labrador,Men's clothing,100.966666666667
+2018,Newfoundland and Labrador,Men's clothing,102.975
+1988,Prince Edward Island,Men's clothing,82.1333333333333
+1989,Prince Edward Island,Men's clothing,84.7583333333333
+1990,Prince Edward Island,Men's clothing,86.9916666666667
+1991,Prince Edward Island,Men's clothing,92.1666666666667
+1992,Prince Edward Island,Men's clothing,94.4833333333333
+1993,Prince Edward Island,Men's clothing,96.7083333333333
+1994,Prince Edward Island,Men's clothing,95.775
+1995,Prince Edward Island,Men's clothing,95.8166666666667
+1996,Prince Edward Island,Men's clothing,96.8166666666667
+1997,Prince Edward Island,Men's clothing,98.5833333333333
+1998,Prince Edward Island,Men's clothing,98.1166666666666
+1999,Prince Edward Island,Men's clothing,97.55
+2000,Prince Edward Island,Men's clothing,99.2666666666667
+2001,Prince Edward Island,Men's clothing,99.2916666666667
+2002,Prince Edward Island,Men's clothing,100.008333333333
+2003,Prince Edward Island,Men's clothing,100.15
+2004,Prince Edward Island,Men's clothing,102.05
+2005,Prince Edward Island,Men's clothing,99.475
+2006,Prince Edward Island,Men's clothing,97.5083333333333
+2007,Prince Edward Island,Men's clothing,97.2083333333333
+2008,Prince Edward Island,Men's clothing,94.625
+2009,Prince Edward Island,Men's clothing,95.2083333333333
+2010,Prince Edward Island,Men's clothing,96.5666666666667
+2011,Prince Edward Island,Men's clothing,94.1
+2012,Prince Edward Island,Men's clothing,96.7333333333333
+2013,Prince Edward Island,Men's clothing,103.183333333333
+2014,Prince Edward Island,Men's clothing,101.516666666667
+2015,Prince Edward Island,Men's clothing,100.6
+2016,Prince Edward Island,Men's clothing,94.8083333333333
+2017,Prince Edward Island,Men's clothing,96.0583333333333
+2018,Prince Edward Island,Men's clothing,96.0833333333334
+1988,Nova Scotia,Men's clothing,74.4916666666667
+1989,Nova Scotia,Men's clothing,77.3666666666667
+1990,Nova Scotia,Men's clothing,77.75
+1991,Nova Scotia,Men's clothing,85.4
+1992,Nova Scotia,Men's clothing,85.6166666666667
+1993,Nova Scotia,Men's clothing,86.65
+1994,Nova Scotia,Men's clothing,86.9833333333333
+1995,Nova Scotia,Men's clothing,88.7416666666667
+1996,Nova Scotia,Men's clothing,90.45
+1997,Nova Scotia,Men's clothing,96.6
+1998,Nova Scotia,Men's clothing,98.1166666666667
+1999,Nova Scotia,Men's clothing,103.325
+2000,Nova Scotia,Men's clothing,102.616666666667
+2001,Nova Scotia,Men's clothing,101.575
+2002,Nova Scotia,Men's clothing,100
+2003,Nova Scotia,Men's clothing,100
+2004,Nova Scotia,Men's clothing,97.3083333333333
+2005,Nova Scotia,Men's clothing,96.3583333333333
+2006,Nova Scotia,Men's clothing,93.9333333333334
+2007,Nova Scotia,Men's clothing,94.1083333333333
+2008,Nova Scotia,Men's clothing,92.0833333333333
+2009,Nova Scotia,Men's clothing,88.5166666666667
+2010,Nova Scotia,Men's clothing,87.3916666666667
+2011,Nova Scotia,Men's clothing,94.2166666666667
+2012,Nova Scotia,Men's clothing,91.5333333333333
+2013,Nova Scotia,Men's clothing,92.9166666666667
+2014,Nova Scotia,Men's clothing,93.3666666666667
+2015,Nova Scotia,Men's clothing,92.875
+2016,Nova Scotia,Men's clothing,90.6
+2017,Nova Scotia,Men's clothing,92.2333333333333
+2018,Nova Scotia,Men's clothing,95.3916666666667
+1988,New Brunswick,Men's clothing,78.8166666666667
+1989,New Brunswick,Men's clothing,81.8
+1990,New Brunswick,Men's clothing,82.0666666666667
+1991,New Brunswick,Men's clothing,90.15
+1992,New Brunswick,Men's clothing,90.3833333333333
+1993,New Brunswick,Men's clothing,92.8083333333333
+1994,New Brunswick,Men's clothing,93.9
+1995,New Brunswick,Men's clothing,91.5583333333333
+1996,New Brunswick,Men's clothing,91.225
+1997,New Brunswick,Men's clothing,95.4333333333333
+1998,New Brunswick,Men's clothing,95.7083333333333
+1999,New Brunswick,Men's clothing,98.675
+2000,New Brunswick,Men's clothing,99.1
+2001,New Brunswick,Men's clothing,101.575
+2002,New Brunswick,Men's clothing,100.008333333333
+2003,New Brunswick,Men's clothing,98.9916666666667
+2004,New Brunswick,Men's clothing,96.3583333333333
+2005,New Brunswick,Men's clothing,96.5583333333333
+2006,New Brunswick,Men's clothing,93.1166666666667
+2007,New Brunswick,Men's clothing,94.2416666666667
+2008,New Brunswick,Men's clothing,93.55
+2009,New Brunswick,Men's clothing,94.3333333333333
+2010,New Brunswick,Men's clothing,92.825
+2011,New Brunswick,Men's clothing,97.5416666666666
+2012,New Brunswick,Men's clothing,94.7416666666667
+2013,New Brunswick,Men's clothing,95.7833333333333
+2014,New Brunswick,Men's clothing,95.1
+2015,New Brunswick,Men's clothing,95.1416666666667
+2016,New Brunswick,Men's clothing,95.225
+2017,New Brunswick,Men's clothing,98.1
+2018,New Brunswick,Men's clothing,98.4916666666667
+1988,Quebec,Men's clothing,82.9666666666667
+1989,Quebec,Men's clothing,85.9833333333333
+1990,Quebec,Men's clothing,86.6666666666667
+1991,Quebec,Men's clothing,99.65
+1992,Quebec,Men's clothing,101.191666666667
+1993,Quebec,Men's clothing,101.375
+1994,Quebec,Men's clothing,99.4333333333334
+1995,Quebec,Men's clothing,98.9416666666667
+1996,Quebec,Men's clothing,96.825
+1997,Quebec,Men's clothing,98.3083333333333
+1998,Quebec,Men's clothing,99.5
+1999,Quebec,Men's clothing,100.775
+2000,Quebec,Men's clothing,99.2416666666667
+2001,Quebec,Men's clothing,98.4916666666667
+2002,Quebec,Men's clothing,100
+2003,Quebec,Men's clothing,97.5916666666667
+2004,Quebec,Men's clothing,97.95
+2005,Quebec,Men's clothing,97.775
+2006,Quebec,Men's clothing,95.15
+2007,Quebec,Men's clothing,94.4083333333333
+2008,Quebec,Men's clothing,90.8666666666667
+2009,Quebec,Men's clothing,90.85
+2010,Quebec,Men's clothing,87.6583333333333
+2011,Quebec,Men's clothing,86.4166666666667
+2012,Quebec,Men's clothing,89.125
+2013,Quebec,Men's clothing,90.275
+2014,Quebec,Men's clothing,89.3416666666667
+2015,Quebec,Men's clothing,91.825
+2016,Quebec,Men's clothing,92.4583333333334
+2017,Quebec,Men's clothing,93.0416666666666
+2018,Quebec,Men's clothing,93.25
+1988,Ontario,Men's clothing,82.8416666666667
+1989,Ontario,Men's clothing,86.7333333333333
+1990,Ontario,Men's clothing,88.2166666666667
+1991,Ontario,Men's clothing,94.9166666666667
+1992,Ontario,Men's clothing,96.0333333333333
+1993,Ontario,Men's clothing,96.5583333333333
+1994,Ontario,Men's clothing,96.6166666666667
+1995,Ontario,Men's clothing,97.1333333333333
+1996,Ontario,Men's clothing,98.025
+1997,Ontario,Men's clothing,98.9916666666667
+1998,Ontario,Men's clothing,99.125
+1999,Ontario,Men's clothing,101.75
+2000,Ontario,Men's clothing,101.541666666667
+2001,Ontario,Men's clothing,102.066666666667
+2002,Ontario,Men's clothing,99.9833333333333
+2003,Ontario,Men's clothing,97.4416666666667
+2004,Ontario,Men's clothing,97.5
+2005,Ontario,Men's clothing,95.15
+2006,Ontario,Men's clothing,91.3416666666667
+2007,Ontario,Men's clothing,90.1083333333333
+2008,Ontario,Men's clothing,89.8166666666667
+2009,Ontario,Men's clothing,89.05
+2010,Ontario,Men's clothing,89.4916666666667
+2011,Ontario,Men's clothing,91.8166666666667
+2012,Ontario,Men's clothing,92.2333333333333
+2013,Ontario,Men's clothing,90.475
+2014,Ontario,Men's clothing,92.1916666666667
+2015,Ontario,Men's clothing,93.95
+2016,Ontario,Men's clothing,93.525
+2017,Ontario,Men's clothing,90.05
+2018,Ontario,Men's clothing,91.0583333333333
+1988,Manitoba,Men's clothing,74.4
+1989,Manitoba,Men's clothing,77.3666666666667
+1990,Manitoba,Men's clothing,78.6166666666667
+1991,Manitoba,Men's clothing,84.1083333333333
+1992,Manitoba,Men's clothing,85.725
+1993,Manitoba,Men's clothing,87.5833333333333
+1994,Manitoba,Men's clothing,89.2166666666667
+1995,Manitoba,Men's clothing,91.8166666666667
+1996,Manitoba,Men's clothing,92.875
+1997,Manitoba,Men's clothing,94.7833333333333
+1998,Manitoba,Men's clothing,96.5166666666667
+1999,Manitoba,Men's clothing,100.008333333333
+2000,Manitoba,Men's clothing,99.5583333333333
+2001,Manitoba,Men's clothing,101.991666666667
+2002,Manitoba,Men's clothing,99.9916666666667
+2003,Manitoba,Men's clothing,100.466666666667
+2004,Manitoba,Men's clothing,99.0166666666667
+2005,Manitoba,Men's clothing,97.5083333333333
+2006,Manitoba,Men's clothing,94.2666666666667
+2007,Manitoba,Men's clothing,93.5666666666667
+2008,Manitoba,Men's clothing,91.9416666666667
+2009,Manitoba,Men's clothing,90.7166666666667
+2010,Manitoba,Men's clothing,87.85
+2011,Manitoba,Men's clothing,91.0333333333333
+2012,Manitoba,Men's clothing,92.4666666666667
+2013,Manitoba,Men's clothing,92.0916666666667
+2014,Manitoba,Men's clothing,92.7833333333333
+2015,Manitoba,Men's clothing,91.8666666666667
+2016,Manitoba,Men's clothing,87.6
+2017,Manitoba,Men's clothing,85.925
+2018,Manitoba,Men's clothing,87.8333333333333
+1988,Saskatchewan,Men's clothing,73.9833333333333
+1989,Saskatchewan,Men's clothing,76.95
+1990,Saskatchewan,Men's clothing,78.5083333333333
+1991,Saskatchewan,Men's clothing,87.7416666666667
+1992,Saskatchewan,Men's clothing,86.3083333333333
+1993,Saskatchewan,Men's clothing,92.2583333333333
+1994,Saskatchewan,Men's clothing,95.5666666666666
+1995,Saskatchewan,Men's clothing,95.5333333333333
+1996,Saskatchewan,Men's clothing,94.1083333333333
+1997,Saskatchewan,Men's clothing,94.6166666666667
+1998,Saskatchewan,Men's clothing,96.3583333333333
+1999,Saskatchewan,Men's clothing,98.6583333333333
+2000,Saskatchewan,Men's clothing,98.3166666666667
+2001,Saskatchewan,Men's clothing,99.6583333333333
+2002,Saskatchewan,Men's clothing,100.016666666667
+2003,Saskatchewan,Men's clothing,97.9833333333333
+2004,Saskatchewan,Men's clothing,98.2166666666667
+2005,Saskatchewan,Men's clothing,98.8083333333333
+2006,Saskatchewan,Men's clothing,93.1583333333333
+2007,Saskatchewan,Men's clothing,90.6583333333333
+2008,Saskatchewan,Men's clothing,88.1666666666667
+2009,Saskatchewan,Men's clothing,88.2166666666667
+2010,Saskatchewan,Men's clothing,88.2416666666667
+2011,Saskatchewan,Men's clothing,88.1666666666667
+2012,Saskatchewan,Men's clothing,88.2
+2013,Saskatchewan,Men's clothing,88.025
+2014,Saskatchewan,Men's clothing,88.4083333333333
+2015,Saskatchewan,Men's clothing,91.6916666666667
+2016,Saskatchewan,Men's clothing,90.4583333333333
+2017,Saskatchewan,Men's clothing,89.7916666666667
+2018,Saskatchewan,Men's clothing,94.2916666666667
+1988,Alberta,Men's clothing,84.825
+1989,Alberta,Men's clothing,87.9416666666667
+1990,Alberta,Men's clothing,89.5166666666667
+1991,Alberta,Men's clothing,97.1833333333333
+1992,Alberta,Men's clothing,97.8416666666667
+1993,Alberta,Men's clothing,97.6166666666667
+1994,Alberta,Men's clothing,98.7083333333333
+1995,Alberta,Men's clothing,100.233333333333
+1996,Alberta,Men's clothing,99.925
+1997,Alberta,Men's clothing,100.483333333333
+1998,Alberta,Men's clothing,101.591666666667
+1999,Alberta,Men's clothing,102.991666666667
+2000,Alberta,Men's clothing,102.133333333333
+2001,Alberta,Men's clothing,101.941666666667
+2002,Alberta,Men's clothing,100.008333333333
+2003,Alberta,Men's clothing,97.7083333333333
+2004,Alberta,Men's clothing,97.7833333333333
+2005,Alberta,Men's clothing,98.2583333333333
+2006,Alberta,Men's clothing,96.475
+2007,Alberta,Men's clothing,96.9416666666667
+2008,Alberta,Men's clothing,93.7
+2009,Alberta,Men's clothing,92.75
+2010,Alberta,Men's clothing,91.2333333333333
+2011,Alberta,Men's clothing,90.1
+2012,Alberta,Men's clothing,89.6916666666667
+2013,Alberta,Men's clothing,88.6166666666667
+2014,Alberta,Men's clothing,89.675
+2015,Alberta,Men's clothing,90.0333333333333
+2016,Alberta,Men's clothing,88.75
+2017,Alberta,Men's clothing,89.5333333333333
+2018,Alberta,Men's clothing,90.65
+1988,British Columbia,Men's clothing,77.275
+1989,British Columbia,Men's clothing,80.4333333333333
+1990,British Columbia,Men's clothing,81.8333333333333
+1991,British Columbia,Men's clothing,87.3583333333333
+1992,British Columbia,Men's clothing,89.6166666666667
+1993,British Columbia,Men's clothing,92.7666666666667
+1994,British Columbia,Men's clothing,93.9916666666667
+1995,British Columbia,Men's clothing,95.2916666666667
+1996,British Columbia,Men's clothing,94.825
+1997,British Columbia,Men's clothing,97.4666666666667
+1998,British Columbia,Men's clothing,96.7833333333333
+1999,British Columbia,Men's clothing,99.275
+2000,British Columbia,Men's clothing,100.475
+2001,British Columbia,Men's clothing,101.583333333333
+2002,British Columbia,Men's clothing,100
+2003,British Columbia,Men's clothing,98.875
+2004,British Columbia,Men's clothing,99.5916666666667
+2005,British Columbia,Men's clothing,98.1416666666667
+2006,British Columbia,Men's clothing,98.3666666666667
+2007,British Columbia,Men's clothing,96.4666666666667
+2008,British Columbia,Men's clothing,95
+2009,British Columbia,Men's clothing,93.7916666666667
+2010,British Columbia,Men's clothing,92.4333333333334
+2011,British Columbia,Men's clothing,94.3916666666667
+2012,British Columbia,Men's clothing,93.3833333333333
+2013,British Columbia,Men's clothing,94.0666666666667
+2014,British Columbia,Men's clothing,95.8416666666667
+2015,British Columbia,Men's clothing,97.5333333333333
+2016,British Columbia,Men's clothing,98.6083333333333
+2017,British Columbia,Men's clothing,98.0083333333333
+2018,British Columbia,Men's clothing,99.6916666666667
+1988,Newfoundland and Labrador,Women's clothing,79.9166666666666
+1989,Newfoundland and Labrador,Women's clothing,83.9333333333333
+1990,Newfoundland and Labrador,Women's clothing,87.5333333333333
+1991,Newfoundland and Labrador,Women's clothing,96.9833333333333
+1992,Newfoundland and Labrador,Women's clothing,98.9333333333333
+1993,Newfoundland and Labrador,Women's clothing,100.708333333333
+1994,Newfoundland and Labrador,Women's clothing,101.558333333333
+1995,Newfoundland and Labrador,Women's clothing,99.025
+1996,Newfoundland and Labrador,Women's clothing,100.566666666667
+1997,Newfoundland and Labrador,Women's clothing,101.15
+1998,Newfoundland and Labrador,Women's clothing,100.233333333333
+1999,Newfoundland and Labrador,Women's clothing,101.775
+2000,Newfoundland and Labrador,Women's clothing,99.925
+2001,Newfoundland and Labrador,Women's clothing,106.758333333333
+2002,Newfoundland and Labrador,Women's clothing,100.008333333333
+2003,Newfoundland and Labrador,Women's clothing,99.6333333333333
+2004,Newfoundland and Labrador,Women's clothing,99.2333333333333
+2005,Newfoundland and Labrador,Women's clothing,103.983333333333
+2006,Newfoundland and Labrador,Women's clothing,102.275
+2007,Newfoundland and Labrador,Women's clothing,99.7
+2008,Newfoundland and Labrador,Women's clothing,96.725
+2009,Newfoundland and Labrador,Women's clothing,90.4333333333333
+2010,Newfoundland and Labrador,Women's clothing,90.3083333333333
+2011,Newfoundland and Labrador,Women's clothing,88.325
+2012,Newfoundland and Labrador,Women's clothing,81.025
+2013,Newfoundland and Labrador,Women's clothing,84.8583333333333
+2014,Newfoundland and Labrador,Women's clothing,84.1666666666667
+2015,Newfoundland and Labrador,Women's clothing,85.025
+2016,Newfoundland and Labrador,Women's clothing,83.8666666666667
+2017,Newfoundland and Labrador,Women's clothing,82.3
+2018,Newfoundland and Labrador,Women's clothing,81.4333333333333
+1988,Prince Edward Island,Women's clothing,72.0916666666667
+1989,Prince Edward Island,Women's clothing,74.65
+1990,Prince Edward Island,Women's clothing,76.1916666666667
+1991,Prince Edward Island,Women's clothing,85.0916666666667
+1992,Prince Edward Island,Women's clothing,85.825
+1993,Prince Edward Island,Women's clothing,87.2666666666667
+1994,Prince Edward Island,Women's clothing,92.7833333333333
+1995,Prince Edward Island,Women's clothing,91.375
+1996,Prince Edward Island,Women's clothing,95.5333333333333
+1997,Prince Edward Island,Women's clothing,96.1833333333333
+1998,Prince Edward Island,Women's clothing,93.9416666666667
+1999,Prince Edward Island,Women's clothing,95.175
+2000,Prince Edward Island,Women's clothing,96.0166666666667
+2001,Prince Edward Island,Women's clothing,99.7416666666667
+2002,Prince Edward Island,Women's clothing,100.016666666667
+2003,Prince Edward Island,Women's clothing,97.6416666666667
+2004,Prince Edward Island,Women's clothing,100.733333333333
+2005,Prince Edward Island,Women's clothing,99.4083333333333
+2006,Prince Edward Island,Women's clothing,100.441666666667
+2007,Prince Edward Island,Women's clothing,98.2416666666667
+2008,Prince Edward Island,Women's clothing,96.3
+2009,Prince Edward Island,Women's clothing,93.175
+2010,Prince Edward Island,Women's clothing,91.1083333333333
+2011,Prince Edward Island,Women's clothing,89.7583333333333
+2012,Prince Edward Island,Women's clothing,91.4666666666667
+2013,Prince Edward Island,Women's clothing,101.841666666667
+2014,Prince Edward Island,Women's clothing,101.883333333333
+2015,Prince Edward Island,Women's clothing,94.4333333333333
+2016,Prince Edward Island,Women's clothing,91.9083333333333
+2017,Prince Edward Island,Women's clothing,93.0416666666667
+2018,Prince Edward Island,Women's clothing,92.1166666666667
+1988,Nova Scotia,Women's clothing,79.3083333333333
+1989,Nova Scotia,Women's clothing,81.8666666666667
+1990,Nova Scotia,Women's clothing,84.0583333333333
+1991,Nova Scotia,Women's clothing,92.2916666666667
+1992,Nova Scotia,Women's clothing,92.6416666666667
+1993,Nova Scotia,Women's clothing,94.5833333333333
+1994,Nova Scotia,Women's clothing,95.6083333333333
+1995,Nova Scotia,Women's clothing,94.875
+1996,Nova Scotia,Women's clothing,93.975
+1997,Nova Scotia,Women's clothing,101.316666666667
+1998,Nova Scotia,Women's clothing,101.466666666667
+1999,Nova Scotia,Women's clothing,105.566666666667
+2000,Nova Scotia,Women's clothing,103.2
+2001,Nova Scotia,Women's clothing,106.133333333333
+2002,Nova Scotia,Women's clothing,100
+2003,Nova Scotia,Women's clothing,102.725
+2004,Nova Scotia,Women's clothing,101.933333333333
+2005,Nova Scotia,Women's clothing,101.466666666667
+2006,Nova Scotia,Women's clothing,97.825
+2007,Nova Scotia,Women's clothing,101.491666666667
+2008,Nova Scotia,Women's clothing,99.0166666666667
+2009,Nova Scotia,Women's clothing,88.4666666666667
+2010,Nova Scotia,Women's clothing,87.9666666666667
+2011,Nova Scotia,Women's clothing,89.9916666666667
+2012,Nova Scotia,Women's clothing,90.475
+2013,Nova Scotia,Women's clothing,92.1583333333333
+2014,Nova Scotia,Women's clothing,92.9083333333333
+2015,Nova Scotia,Women's clothing,96.5333333333333
+2016,Nova Scotia,Women's clothing,93.5833333333333
+2017,Nova Scotia,Women's clothing,93.025
+2018,Nova Scotia,Women's clothing,95.7333333333333
+1988,New Brunswick,Women's clothing,77.7916666666667
+1989,New Brunswick,Women's clothing,80.4666666666667
+1990,New Brunswick,Women's clothing,82.7916666666667
+1991,New Brunswick,Women's clothing,90.9666666666667
+1992,New Brunswick,Women's clothing,91.35
+1993,New Brunswick,Women's clothing,95
+1994,New Brunswick,Women's clothing,96.95
+1995,New Brunswick,Women's clothing,93.9
+1996,New Brunswick,Women's clothing,95.7
+1997,New Brunswick,Women's clothing,97.6083333333333
+1998,New Brunswick,Women's clothing,99.3416666666667
+1999,New Brunswick,Women's clothing,101.525
+2000,New Brunswick,Women's clothing,99.725
+2001,New Brunswick,Women's clothing,103.5
+2002,New Brunswick,Women's clothing,100
+2003,New Brunswick,Women's clothing,100.058333333333
+2004,New Brunswick,Women's clothing,99.4333333333333
+2005,New Brunswick,Women's clothing,98.2333333333333
+2006,New Brunswick,Women's clothing,98.575
+2007,New Brunswick,Women's clothing,98.65
+2008,New Brunswick,Women's clothing,91.7083333333333
+2009,New Brunswick,Women's clothing,92.2333333333333
+2010,New Brunswick,Women's clothing,87.6666666666667
+2011,New Brunswick,Women's clothing,87.7166666666667
+2012,New Brunswick,Women's clothing,82.5583333333333
+2013,New Brunswick,Women's clothing,85.4333333333333
+2014,New Brunswick,Women's clothing,83.3416666666667
+2015,New Brunswick,Women's clothing,82.675
+2016,New Brunswick,Women's clothing,82.575
+2017,New Brunswick,Women's clothing,85.6833333333333
+2018,New Brunswick,Women's clothing,84.8666666666667
+1988,Quebec,Women's clothing,78.125
+1989,Quebec,Women's clothing,80.5666666666667
+1990,Quebec,Women's clothing,83.7
+1991,Quebec,Women's clothing,97.0166666666667
+1992,Quebec,Women's clothing,97.8416666666667
+1993,Quebec,Women's clothing,99.0166666666667
+1994,Quebec,Women's clothing,98.925
+1995,Quebec,Women's clothing,99.4583333333333
+1996,Quebec,Women's clothing,95.8083333333333
+1997,Quebec,Women's clothing,97.7833333333333
+1998,Quebec,Women's clothing,99.0583333333333
+1999,Quebec,Women's clothing,97.4083333333333
+2000,Quebec,Women's clothing,97.25
+2001,Quebec,Women's clothing,99.8166666666667
+2002,Quebec,Women's clothing,100
+2003,Quebec,Women's clothing,97.45
+2004,Quebec,Women's clothing,93.875
+2005,Quebec,Women's clothing,94.8
+2006,Quebec,Women's clothing,94.1166666666667
+2007,Quebec,Women's clothing,91.1416666666667
+2008,Quebec,Women's clothing,84.2583333333333
+2009,Quebec,Women's clothing,79.875
+2010,Quebec,Women's clothing,72.4833333333333
+2011,Quebec,Women's clothing,73.0083333333333
+2012,Quebec,Women's clothing,73.8916666666667
+2013,Quebec,Women's clothing,74.275
+2014,Quebec,Women's clothing,73.675
+2015,Quebec,Women's clothing,76.0333333333333
+2016,Quebec,Women's clothing,77.55
+2017,Quebec,Women's clothing,76.7
+2018,Quebec,Women's clothing,78.3083333333334
+1988,Ontario,Women's clothing,84.1833333333333
+1989,Ontario,Women's clothing,88.4416666666667
+1990,Ontario,Women's clothing,91.8166666666667
+1991,Ontario,Women's clothing,97.775
+1992,Ontario,Women's clothing,98.4916666666667
+1993,Ontario,Women's clothing,98.0833333333334
+1994,Ontario,Women's clothing,99.8
+1995,Ontario,Women's clothing,100.091666666667
+1996,Ontario,Women's clothing,101.541666666667
+1997,Ontario,Women's clothing,102.208333333333
+1998,Ontario,Women's clothing,102.908333333333
+1999,Ontario,Women's clothing,104.733333333333
+2000,Ontario,Women's clothing,104.091666666667
+2001,Ontario,Women's clothing,102.25
+2002,Ontario,Women's clothing,99.9916666666667
+2003,Ontario,Women's clothing,96.8083333333333
+2004,Ontario,Women's clothing,98.4666666666667
+2005,Ontario,Women's clothing,94.2833333333333
+2006,Ontario,Women's clothing,90.525
+2007,Ontario,Women's clothing,92.2833333333333
+2008,Ontario,Women's clothing,89.025
+2009,Ontario,Women's clothing,87.425
+2010,Ontario,Women's clothing,82.8
+2011,Ontario,Women's clothing,80.975
+2012,Ontario,Women's clothing,77.7333333333333
+2013,Ontario,Women's clothing,75.3083333333334
+2014,Ontario,Women's clothing,78.6333333333333
+2015,Ontario,Women's clothing,78.6083333333333
+2016,Ontario,Women's clothing,78.45
+2017,Ontario,Women's clothing,75.6416666666667
+2018,Ontario,Women's clothing,76.225
+1988,Manitoba,Women's clothing,74.625
+1989,Manitoba,Women's clothing,77.9666666666667
+1990,Manitoba,Women's clothing,79.925
+1991,Manitoba,Women's clothing,85.6916666666667
+1992,Manitoba,Women's clothing,87.9166666666667
+1993,Manitoba,Women's clothing,89.625
+1994,Manitoba,Women's clothing,90.525
+1995,Manitoba,Women's clothing,93.175
+1996,Manitoba,Women's clothing,93.6416666666667
+1997,Manitoba,Women's clothing,97.5916666666667
+1998,Manitoba,Women's clothing,100.1
+1999,Manitoba,Women's clothing,101.591666666667
+2000,Manitoba,Women's clothing,102.333333333333
+2001,Manitoba,Women's clothing,101.55
+2002,Manitoba,Women's clothing,99.9916666666667
+2003,Manitoba,Women's clothing,102.15
+2004,Manitoba,Women's clothing,100.041666666667
+2005,Manitoba,Women's clothing,101.358333333333
+2006,Manitoba,Women's clothing,94.15
+2007,Manitoba,Women's clothing,93.1416666666667
+2008,Manitoba,Women's clothing,87.4583333333333
+2009,Manitoba,Women's clothing,84.725
+2010,Manitoba,Women's clothing,82.1166666666667
+2011,Manitoba,Women's clothing,81.6333333333333
+2012,Manitoba,Women's clothing,81.5666666666667
+2013,Manitoba,Women's clothing,82.6583333333333
+2014,Manitoba,Women's clothing,80.6083333333333
+2015,Manitoba,Women's clothing,83.8
+2016,Manitoba,Women's clothing,80.4416666666667
+2017,Manitoba,Women's clothing,79.075
+2018,Manitoba,Women's clothing,80.9166666666667
+1988,Saskatchewan,Women's clothing,81.4583333333333
+1989,Saskatchewan,Women's clothing,84.1583333333333
+1990,Saskatchewan,Women's clothing,86.825
+1991,Saskatchewan,Women's clothing,98.2333333333333
+1992,Saskatchewan,Women's clothing,96.0666666666667
+1993,Saskatchewan,Women's clothing,103.45
+1994,Saskatchewan,Women's clothing,105.316666666667
+1995,Saskatchewan,Women's clothing,102.566666666667
+1996,Saskatchewan,Women's clothing,99.3666666666667
+1997,Saskatchewan,Women's clothing,98.4916666666667
+1998,Saskatchewan,Women's clothing,97.7583333333333
+1999,Saskatchewan,Women's clothing,99.2583333333333
+2000,Saskatchewan,Women's clothing,100.091666666667
+2001,Saskatchewan,Women's clothing,99.7083333333333
+2002,Saskatchewan,Women's clothing,99.9833333333333
+2003,Saskatchewan,Women's clothing,100.983333333333
+2004,Saskatchewan,Women's clothing,101.758333333333
+2005,Saskatchewan,Women's clothing,103.016666666667
+2006,Saskatchewan,Women's clothing,97.7416666666667
+2007,Saskatchewan,Women's clothing,94.925
+2008,Saskatchewan,Women's clothing,91.975
+2009,Saskatchewan,Women's clothing,91.475
+2010,Saskatchewan,Women's clothing,89.45
+2011,Saskatchewan,Women's clothing,86.1166666666667
+2012,Saskatchewan,Women's clothing,84.0916666666666
+2013,Saskatchewan,Women's clothing,85.5583333333333
+2014,Saskatchewan,Women's clothing,85.4416666666667
+2015,Saskatchewan,Women's clothing,86.8333333333333
+2016,Saskatchewan,Women's clothing,86.0166666666667
+2017,Saskatchewan,Women's clothing,86.9333333333333
+2018,Saskatchewan,Women's clothing,87.8166666666667
+1988,Alberta,Women's clothing,83.8833333333333
+1989,Alberta,Women's clothing,86.775
+1990,Alberta,Women's clothing,89.1416666666667
+1991,Alberta,Women's clothing,97.875
+1992,Alberta,Women's clothing,97.675
+1993,Alberta,Women's clothing,98.5666666666667
+1994,Alberta,Women's clothing,97.2833333333333
+1995,Alberta,Women's clothing,98.5416666666667
+1996,Alberta,Women's clothing,97.8583333333333
+1997,Alberta,Women's clothing,99.075
+1998,Alberta,Women's clothing,99.3833333333333
+1999,Alberta,Women's clothing,101.966666666667
+2000,Alberta,Women's clothing,99.3916666666667
+2001,Alberta,Women's clothing,100.65
+2002,Alberta,Women's clothing,100
+2003,Alberta,Women's clothing,99.6583333333333
+2004,Alberta,Women's clothing,95.8416666666667
+2005,Alberta,Women's clothing,97.2083333333333
+2006,Alberta,Women's clothing,95.6333333333333
+2007,Alberta,Women's clothing,95.75
+2008,Alberta,Women's clothing,92.2583333333333
+2009,Alberta,Women's clothing,89.9333333333333
+2010,Alberta,Women's clothing,86.0916666666667
+2011,Alberta,Women's clothing,80.3666666666667
+2012,Alberta,Women's clothing,77.7333333333333
+2013,Alberta,Women's clothing,77.7416666666667
+2014,Alberta,Women's clothing,77.4583333333333
+2015,Alberta,Women's clothing,78.0916666666667
+2016,Alberta,Women's clothing,77.1
+2017,Alberta,Women's clothing,78.65
+2018,Alberta,Women's clothing,79.0916666666667
+1988,British Columbia,Women's clothing,74.6416666666667
+1989,British Columbia,Women's clothing,78
+1990,British Columbia,Women's clothing,80.0333333333333
+1991,British Columbia,Women's clothing,87.9
+1992,British Columbia,Women's clothing,89.6833333333333
+1993,British Columbia,Women's clothing,91.7333333333333
+1994,British Columbia,Women's clothing,93.95
+1995,British Columbia,Women's clothing,93.0416666666667
+1996,British Columbia,Women's clothing,91.6583333333333
+1997,British Columbia,Women's clothing,94.8166666666667
+1998,British Columbia,Women's clothing,98.8166666666667
+1999,British Columbia,Women's clothing,97.6916666666667
+2000,British Columbia,Women's clothing,100.391666666667
+2001,British Columbia,Women's clothing,100.466666666667
+2002,British Columbia,Women's clothing,100
+2003,British Columbia,Women's clothing,97.5666666666667
+2004,British Columbia,Women's clothing,99.0833333333333
+2005,British Columbia,Women's clothing,99.6166666666667
+2006,British Columbia,Women's clothing,99.65
+2007,British Columbia,Women's clothing,97.1666666666667
+2008,British Columbia,Women's clothing,94.5666666666667
+2009,British Columbia,Women's clothing,93.6416666666667
+2010,British Columbia,Women's clothing,89.6416666666667
+2011,British Columbia,Women's clothing,86.5416666666667
+2012,British Columbia,Women's clothing,87.9666666666667
+2013,British Columbia,Women's clothing,87.2416666666667
+2014,British Columbia,Women's clothing,86.9083333333333
+2015,British Columbia,Women's clothing,88.3833333333333
+2016,British Columbia,Women's clothing,88.3833333333333
+2017,British Columbia,Women's clothing,87.6333333333333
+2018,British Columbia,Women's clothing,88.2
+1988,Newfoundland and Labrador,Alcoholic beverages,75.5416666666667
+1989,Newfoundland and Labrador,Alcoholic beverages,78.8416666666667
+1990,Newfoundland and Labrador,Alcoholic beverages,81.6666666666666
+1991,Newfoundland and Labrador,Alcoholic beverages,85.3
+1992,Newfoundland and Labrador,Alcoholic beverages,87.7916666666666
+1993,Newfoundland and Labrador,Alcoholic beverages,89.5
+1994,Newfoundland and Labrador,Alcoholic beverages,90.1333333333334
+1995,Newfoundland and Labrador,Alcoholic beverages,91.3916666666667
+1996,Newfoundland and Labrador,Alcoholic beverages,92.25
+1997,Newfoundland and Labrador,Alcoholic beverages,92.6916666666667
+1998,Newfoundland and Labrador,Alcoholic beverages,93.9583333333333
+1999,Newfoundland and Labrador,Alcoholic beverages,94.2666666666667
+2000,Newfoundland and Labrador,Alcoholic beverages,95.9833333333333
+2001,Newfoundland and Labrador,Alcoholic beverages,98.1416666666667
+2002,Newfoundland and Labrador,Alcoholic beverages,100
+2003,Newfoundland and Labrador,Alcoholic beverages,103.066666666667
+2004,Newfoundland and Labrador,Alcoholic beverages,107.133333333333
+2005,Newfoundland and Labrador,Alcoholic beverages,111.058333333333
+2006,Newfoundland and Labrador,Alcoholic beverages,113.041666666667
+2007,Newfoundland and Labrador,Alcoholic beverages,114.9
+2008,Newfoundland and Labrador,Alcoholic beverages,115.133333333333
+2009,Newfoundland and Labrador,Alcoholic beverages,117.175
+2010,Newfoundland and Labrador,Alcoholic beverages,118.908333333333
+2011,Newfoundland and Labrador,Alcoholic beverages,121.575
+2012,Newfoundland and Labrador,Alcoholic beverages,121.425
+2013,Newfoundland and Labrador,Alcoholic beverages,123.141666666667
+2014,Newfoundland and Labrador,Alcoholic beverages,125.408333333333
+2015,Newfoundland and Labrador,Alcoholic beverages,128.05
+2016,Newfoundland and Labrador,Alcoholic beverages,132.416666666667
+2017,Newfoundland and Labrador,Alcoholic beverages,134.883333333333
+2018,Newfoundland and Labrador,Alcoholic beverages,137.391666666667
+1988,Prince Edward Island,Alcoholic beverages,73.575
+1989,Prince Edward Island,Alcoholic beverages,78.3333333333333
+1990,Prince Edward Island,Alcoholic beverages,82.9583333333333
+1991,Prince Edward Island,Alcoholic beverages,91.3916666666667
+1992,Prince Edward Island,Alcoholic beverages,93.125
+1993,Prince Edward Island,Alcoholic beverages,94.625
+1994,Prince Edward Island,Alcoholic beverages,93.4583333333333
+1995,Prince Edward Island,Alcoholic beverages,92.95
+1996,Prince Edward Island,Alcoholic beverages,93.8666666666667
+1997,Prince Edward Island,Alcoholic beverages,94.9833333333333
+1998,Prince Edward Island,Alcoholic beverages,93.6166666666667
+1999,Prince Edward Island,Alcoholic beverages,95.6166666666667
+2000,Prince Edward Island,Alcoholic beverages,96.7166666666667
+2001,Prince Edward Island,Alcoholic beverages,98.3666666666666
+2002,Prince Edward Island,Alcoholic beverages,99.9916666666667
+2003,Prince Edward Island,Alcoholic beverages,101.85
+2004,Prince Edward Island,Alcoholic beverages,104.175
+2005,Prince Edward Island,Alcoholic beverages,106.516666666667
+2006,Prince Edward Island,Alcoholic beverages,109.216666666667
+2007,Prince Edward Island,Alcoholic beverages,111.583333333333
+2008,Prince Edward Island,Alcoholic beverages,113.55
+2009,Prince Edward Island,Alcoholic beverages,116.591666666667
+2010,Prince Edward Island,Alcoholic beverages,119.325
+2011,Prince Edward Island,Alcoholic beverages,123.091666666667
+2012,Prince Edward Island,Alcoholic beverages,127.25
+2013,Prince Edward Island,Alcoholic beverages,129.358333333333
+2014,Prince Edward Island,Alcoholic beverages,131.65
+2015,Prince Edward Island,Alcoholic beverages,132.391666666667
+2016,Prince Edward Island,Alcoholic beverages,134.075
+2017,Prince Edward Island,Alcoholic beverages,136.033333333333
+2018,Prince Edward Island,Alcoholic beverages,136.866666666667
+1988,Nova Scotia,Alcoholic beverages,76.4916666666667
+1989,Nova Scotia,Alcoholic beverages,81.3083333333333
+1990,Nova Scotia,Alcoholic beverages,85.4666666666667
+1991,Nova Scotia,Alcoholic beverages,92.5416666666667
+1992,Nova Scotia,Alcoholic beverages,93.5666666666667
+1993,Nova Scotia,Alcoholic beverages,93.8416666666667
+1994,Nova Scotia,Alcoholic beverages,94.75
+1995,Nova Scotia,Alcoholic beverages,94.525
+1996,Nova Scotia,Alcoholic beverages,95.075
+1997,Nova Scotia,Alcoholic beverages,93.75
+1998,Nova Scotia,Alcoholic beverages,93.9166666666667
+1999,Nova Scotia,Alcoholic beverages,95.0166666666667
+2000,Nova Scotia,Alcoholic beverages,95.5
+2001,Nova Scotia,Alcoholic beverages,97.6416666666667
+2002,Nova Scotia,Alcoholic beverages,100
+2003,Nova Scotia,Alcoholic beverages,102.05
+2004,Nova Scotia,Alcoholic beverages,103.775
+2005,Nova Scotia,Alcoholic beverages,107.758333333333
+2006,Nova Scotia,Alcoholic beverages,110.391666666667
+2007,Nova Scotia,Alcoholic beverages,114.241666666667
+2008,Nova Scotia,Alcoholic beverages,116.508333333333
+2009,Nova Scotia,Alcoholic beverages,118.591666666667
+2010,Nova Scotia,Alcoholic beverages,121.083333333333
+2011,Nova Scotia,Alcoholic beverages,124.016666666667
+2012,Nova Scotia,Alcoholic beverages,126.4
+2013,Nova Scotia,Alcoholic beverages,129.608333333333
+2014,Nova Scotia,Alcoholic beverages,130.708333333333
+2015,Nova Scotia,Alcoholic beverages,132.183333333333
+2016,Nova Scotia,Alcoholic beverages,133.716666666667
+2017,Nova Scotia,Alcoholic beverages,136.383333333333
+2018,Nova Scotia,Alcoholic beverages,138.066666666667
+1988,New Brunswick,Alcoholic beverages,80.625
+1989,New Brunswick,Alcoholic beverages,83.9833333333333
+1990,New Brunswick,Alcoholic beverages,88.325
+1991,New Brunswick,Alcoholic beverages,94.6333333333333
+1992,New Brunswick,Alcoholic beverages,96.25
+1993,New Brunswick,Alcoholic beverages,97.4
+1994,New Brunswick,Alcoholic beverages,97.3166666666667
+1995,New Brunswick,Alcoholic beverages,97.3
+1996,New Brunswick,Alcoholic beverages,95.8666666666667
+1997,New Brunswick,Alcoholic beverages,94.6
+1998,New Brunswick,Alcoholic beverages,95.525
+1999,New Brunswick,Alcoholic beverages,95.95
+2000,New Brunswick,Alcoholic beverages,97.1
+2001,New Brunswick,Alcoholic beverages,98.6083333333333
+2002,New Brunswick,Alcoholic beverages,99.9916666666667
+2003,New Brunswick,Alcoholic beverages,101.875
+2004,New Brunswick,Alcoholic beverages,104.8
+2005,New Brunswick,Alcoholic beverages,108.458333333333
+2006,New Brunswick,Alcoholic beverages,110.591666666667
+2007,New Brunswick,Alcoholic beverages,115.066666666667
+2008,New Brunswick,Alcoholic beverages,116.525
+2009,New Brunswick,Alcoholic beverages,119.775
+2010,New Brunswick,Alcoholic beverages,121.991666666667
+2011,New Brunswick,Alcoholic beverages,127.458333333333
+2012,New Brunswick,Alcoholic beverages,129.7
+2013,New Brunswick,Alcoholic beverages,130.741666666667
+2014,New Brunswick,Alcoholic beverages,132.033333333333
+2015,New Brunswick,Alcoholic beverages,132.725
+2016,New Brunswick,Alcoholic beverages,134.841666666667
+2017,New Brunswick,Alcoholic beverages,137.558333333333
+2018,New Brunswick,Alcoholic beverages,139.833333333333
+1988,Quebec,Alcoholic beverages,64.625
+1989,Quebec,Alcoholic beverages,66.8083333333333
+1990,Quebec,Alcoholic beverages,72.9666666666667
+1991,Quebec,Alcoholic beverages,80.5333333333333
+1992,Quebec,Alcoholic beverages,83.9333333333334
+1993,Quebec,Alcoholic beverages,84.3333333333333
+1994,Quebec,Alcoholic beverages,81.65
+1995,Quebec,Alcoholic beverages,82.7416666666667
+1996,Quebec,Alcoholic beverages,85.825
+1997,Quebec,Alcoholic beverages,88.0333333333334
+1998,Quebec,Alcoholic beverages,89.9
+1999,Quebec,Alcoholic beverages,92.1
+2000,Quebec,Alcoholic beverages,94.5166666666667
+2001,Quebec,Alcoholic beverages,97.375
+2002,Quebec,Alcoholic beverages,100
+2003,Quebec,Alcoholic beverages,102.075
+2004,Quebec,Alcoholic beverages,103.566666666667
+2005,Quebec,Alcoholic beverages,105.85
+2006,Quebec,Alcoholic beverages,108.041666666667
+2007,Quebec,Alcoholic beverages,108.666666666667
+2008,Quebec,Alcoholic beverages,109.258333333333
+2009,Quebec,Alcoholic beverages,111.383333333333
+2010,Quebec,Alcoholic beverages,112.158333333333
+2011,Quebec,Alcoholic beverages,111.416666666667
+2012,Quebec,Alcoholic beverages,113.066666666667
+2013,Quebec,Alcoholic beverages,114.758333333333
+2014,Quebec,Alcoholic beverages,115.041666666667
+2015,Quebec,Alcoholic beverages,118.45
+2016,Quebec,Alcoholic beverages,119.216666666667
+2017,Quebec,Alcoholic beverages,119.266666666667
+2018,Quebec,Alcoholic beverages,120.091666666667
+1988,Ontario,Alcoholic beverages,69.1916666666667
+1989,Ontario,Alcoholic beverages,73.225
+1990,Ontario,Alcoholic beverages,76.0416666666666
+1991,Ontario,Alcoholic beverages,80.7083333333333
+1992,Ontario,Alcoholic beverages,84.0166666666666
+1993,Ontario,Alcoholic beverages,85.8833333333333
+1994,Ontario,Alcoholic beverages,86.5833333333333
+1995,Ontario,Alcoholic beverages,87.975
+1996,Ontario,Alcoholic beverages,89.3416666666667
+1997,Ontario,Alcoholic beverages,90.6
+1998,Ontario,Alcoholic beverages,92.3333333333333
+1999,Ontario,Alcoholic beverages,94.1083333333333
+2000,Ontario,Alcoholic beverages,96.0416666666667
+2001,Ontario,Alcoholic beverages,98.3
+2002,Ontario,Alcoholic beverages,99.9833333333333
+2003,Ontario,Alcoholic beverages,102.241666666667
+2004,Ontario,Alcoholic beverages,105.575
+2005,Ontario,Alcoholic beverages,107.758333333333
+2006,Ontario,Alcoholic beverages,108.275
+2007,Ontario,Alcoholic beverages,110.391666666667
+2008,Ontario,Alcoholic beverages,111.125
+2009,Ontario,Alcoholic beverages,112.683333333333
+2010,Ontario,Alcoholic beverages,112.116666666667
+2011,Ontario,Alcoholic beverages,111.925
+2012,Ontario,Alcoholic beverages,112.75
+2013,Ontario,Alcoholic beverages,115.075
+2014,Ontario,Alcoholic beverages,117.316666666667
+2015,Ontario,Alcoholic beverages,120.533333333333
+2016,Ontario,Alcoholic beverages,122.266666666667
+2017,Ontario,Alcoholic beverages,124.466666666667
+2018,Ontario,Alcoholic beverages,127.9
+1988,Manitoba,Alcoholic beverages,77.5
+1989,Manitoba,Alcoholic beverages,79.5416666666667
+1990,Manitoba,Alcoholic beverages,81.9666666666667
+1991,Manitoba,Alcoholic beverages,85.6083333333333
+1992,Manitoba,Alcoholic beverages,87.3166666666667
+1993,Manitoba,Alcoholic beverages,88.1416666666667
+1994,Manitoba,Alcoholic beverages,88.1583333333333
+1995,Manitoba,Alcoholic beverages,89.2333333333333
+1996,Manitoba,Alcoholic beverages,88.5583333333333
+1997,Manitoba,Alcoholic beverages,89.9833333333333
+1998,Manitoba,Alcoholic beverages,92.025
+1999,Manitoba,Alcoholic beverages,95.2083333333334
+2000,Manitoba,Alcoholic beverages,95.725
+2001,Manitoba,Alcoholic beverages,97.5333333333333
+2002,Manitoba,Alcoholic beverages,99.9916666666667
+2003,Manitoba,Alcoholic beverages,102.383333333333
+2004,Manitoba,Alcoholic beverages,105.908333333333
+2005,Manitoba,Alcoholic beverages,107.725
+2006,Manitoba,Alcoholic beverages,109.825
+2007,Manitoba,Alcoholic beverages,113.266666666667
+2008,Manitoba,Alcoholic beverages,114.725
+2009,Manitoba,Alcoholic beverages,117.016666666667
+2010,Manitoba,Alcoholic beverages,120.65
+2011,Manitoba,Alcoholic beverages,122.325
+2012,Manitoba,Alcoholic beverages,129.308333333333
+2013,Manitoba,Alcoholic beverages,136.233333333333
+2014,Manitoba,Alcoholic beverages,139.541666666667
+2015,Manitoba,Alcoholic beverages,142.3
+2016,Manitoba,Alcoholic beverages,145.408333333333
+2017,Manitoba,Alcoholic beverages,147.341666666667
+2018,Manitoba,Alcoholic beverages,149.983333333333
+1988,Saskatchewan,Alcoholic beverages,71.4083333333333
+1989,Saskatchewan,Alcoholic beverages,73.6333333333333
+1990,Saskatchewan,Alcoholic beverages,77.0416666666667
+1991,Saskatchewan,Alcoholic beverages,81.0333333333333
+1992,Saskatchewan,Alcoholic beverages,83.6166666666667
+1993,Saskatchewan,Alcoholic beverages,85.9916666666667
+1994,Saskatchewan,Alcoholic beverages,86.5916666666667
+1995,Saskatchewan,Alcoholic beverages,87.925
+1996,Saskatchewan,Alcoholic beverages,88.8666666666667
+1997,Saskatchewan,Alcoholic beverages,91.2333333333333
+1998,Saskatchewan,Alcoholic beverages,91.575
+1999,Saskatchewan,Alcoholic beverages,93.825
+2000,Saskatchewan,Alcoholic beverages,96.0333333333333
+2001,Saskatchewan,Alcoholic beverages,96.325
+2002,Saskatchewan,Alcoholic beverages,99.9916666666667
+2003,Saskatchewan,Alcoholic beverages,103.166666666667
+2004,Saskatchewan,Alcoholic beverages,106.375
+2005,Saskatchewan,Alcoholic beverages,107.841666666667
+2006,Saskatchewan,Alcoholic beverages,111.475
+2007,Saskatchewan,Alcoholic beverages,113.783333333333
+2008,Saskatchewan,Alcoholic beverages,118.033333333333
+2009,Saskatchewan,Alcoholic beverages,123.366666666667
+2010,Saskatchewan,Alcoholic beverages,128.825
+2011,Saskatchewan,Alcoholic beverages,132.083333333333
+2012,Saskatchewan,Alcoholic beverages,134.2
+2013,Saskatchewan,Alcoholic beverages,138.1
+2014,Saskatchewan,Alcoholic beverages,140.475
+2015,Saskatchewan,Alcoholic beverages,142.275
+2016,Saskatchewan,Alcoholic beverages,145.675
+2017,Saskatchewan,Alcoholic beverages,149.708333333333
+2018,Saskatchewan,Alcoholic beverages,153.95
+1988,Alberta,Alcoholic beverages,63.0166666666667
+1989,Alberta,Alcoholic beverages,65.1833333333333
+1990,Alberta,Alcoholic beverages,68.6666666666667
+1991,Alberta,Alcoholic beverages,75.2166666666667
+1992,Alberta,Alcoholic beverages,77.9583333333333
+1993,Alberta,Alcoholic beverages,79.5083333333333
+1994,Alberta,Alcoholic beverages,83.4083333333333
+1995,Alberta,Alcoholic beverages,83.3083333333333
+1996,Alberta,Alcoholic beverages,84.6666666666667
+1997,Alberta,Alcoholic beverages,85.9583333333333
+1998,Alberta,Alcoholic beverages,87.4333333333334
+1999,Alberta,Alcoholic beverages,88.775
+2000,Alberta,Alcoholic beverages,90.7333333333333
+2001,Alberta,Alcoholic beverages,93.9916666666667
+2002,Alberta,Alcoholic beverages,99.9916666666667
+2003,Alberta,Alcoholic beverages,103.841666666667
+2004,Alberta,Alcoholic beverages,105.516666666667
+2005,Alberta,Alcoholic beverages,106.725
+2006,Alberta,Alcoholic beverages,108.391666666667
+2007,Alberta,Alcoholic beverages,111.491666666667
+2008,Alberta,Alcoholic beverages,115.225
+2009,Alberta,Alcoholic beverages,120.616666666667
+2010,Alberta,Alcoholic beverages,121.666666666667
+2011,Alberta,Alcoholic beverages,123.233333333333
+2012,Alberta,Alcoholic beverages,127.666666666667
+2013,Alberta,Alcoholic beverages,129.758333333333
+2014,Alberta,Alcoholic beverages,131.708333333333
+2015,Alberta,Alcoholic beverages,134.658333333333
+2016,Alberta,Alcoholic beverages,138.175
+2017,Alberta,Alcoholic beverages,141.15
+2018,Alberta,Alcoholic beverages,144.65
+1988,British Columbia,Alcoholic beverages,69.2166666666667
+1989,British Columbia,Alcoholic beverages,71.5
+1990,British Columbia,Alcoholic beverages,75.275
+1991,British Columbia,Alcoholic beverages,80.8916666666667
+1992,British Columbia,Alcoholic beverages,84.7833333333333
+1993,British Columbia,Alcoholic beverages,88.575
+1994,British Columbia,Alcoholic beverages,89.725
+1995,British Columbia,Alcoholic beverages,90.9666666666667
+1996,British Columbia,Alcoholic beverages,92.9166666666666
+1997,British Columbia,Alcoholic beverages,95.15
+1998,British Columbia,Alcoholic beverages,96.3416666666667
+1999,British Columbia,Alcoholic beverages,96.2083333333333
+2000,British Columbia,Alcoholic beverages,96.275
+2001,British Columbia,Alcoholic beverages,98
+2002,British Columbia,Alcoholic beverages,99.9916666666667
+2003,British Columbia,Alcoholic beverages,100.491666666667
+2004,British Columbia,Alcoholic beverages,104.716666666667
+2005,British Columbia,Alcoholic beverages,106.25
+2006,British Columbia,Alcoholic beverages,107.9
+2007,British Columbia,Alcoholic beverages,109.858333333333
+2008,British Columbia,Alcoholic beverages,111.725
+2009,British Columbia,Alcoholic beverages,113.858333333333
+2010,British Columbia,Alcoholic beverages,114.633333333333
+2011,British Columbia,Alcoholic beverages,115.083333333333
+2012,British Columbia,Alcoholic beverages,116.425
+2013,British Columbia,Alcoholic beverages,117.516666666667
+2014,British Columbia,Alcoholic beverages,115.991666666667
+2015,British Columbia,Alcoholic beverages,116.316666666667
+2016,British Columbia,Alcoholic beverages,119.958333333333
+2017,British Columbia,Alcoholic beverages,122.433333333333
+2018,British Columbia,Alcoholic beverages,125.25
+1988,Newfoundland and Labrador,Cigarettes,43.325
+1989,Newfoundland and Labrador,Cigarettes,50.2166666666667
+1990,Newfoundland and Labrador,Cigarettes,54.8166666666667
+1991,Newfoundland and Labrador,Cigarettes,73.4333333333333
+1992,Newfoundland and Labrador,Cigarettes,80.1666666666667
+1993,Newfoundland and Labrador,Cigarettes,89.7083333333333
+1994,Newfoundland and Labrador,Cigarettes,80.5583333333333
+1995,Newfoundland and Labrador,Cigarettes,79.125
+1996,Newfoundland and Labrador,Cigarettes,78.775
+1997,Newfoundland and Labrador,Cigarettes,78.5833333333333
+1998,Newfoundland and Labrador,Cigarettes,79.3583333333333
+1999,Newfoundland and Labrador,Cigarettes,79.6666666666667
+2000,Newfoundland and Labrador,Cigarettes,80.7583333333333
+2001,Newfoundland and Labrador,Cigarettes,83.9833333333333
+2002,Newfoundland and Labrador,Cigarettes,100.016666666667
+2003,Newfoundland and Labrador,Cigarettes,116.458333333333
+2004,Newfoundland and Labrador,Cigarettes,123.966666666667
+2005,Newfoundland and Labrador,Cigarettes,127.75
+2006,Newfoundland and Labrador,Cigarettes,135.233333333333
+2007,Newfoundland and Labrador,Cigarettes,141.591666666667
+2008,Newfoundland and Labrador,Cigarettes,143.1
+2009,Newfoundland and Labrador,Cigarettes,144.808333333333
+2010,Newfoundland and Labrador,Cigarettes,147.941666666667
+2011,Newfoundland and Labrador,Cigarettes,151.208333333333
+2012,Newfoundland and Labrador,Cigarettes,154.083333333333
+2013,Newfoundland and Labrador,Cigarettes,159.508333333333
+2014,Newfoundland and Labrador,Cigarettes,177.041666666667
+2015,Newfoundland and Labrador,Cigarettes,185.4
+2016,Newfoundland and Labrador,Cigarettes,195.991666666667
+2017,Newfoundland and Labrador,Cigarettes,205.683333333333
+2018,Newfoundland and Labrador,Cigarettes,216.183333333333
+1988,Prince Edward Island,Cigarettes,40.125
+1989,Prince Edward Island,Cigarettes,47.2416666666667
+1990,Prince Edward Island,Cigarettes,56.575
+1991,Prince Edward Island,Cigarettes,76.275
+1992,Prince Edward Island,Cigarettes,81.25
+1993,Prince Edward Island,Cigarettes,83.125
+1994,Prince Edward Island,Cigarettes,57.7666666666667
+1995,Prince Edward Island,Cigarettes,54.2083333333333
+1996,Prince Edward Island,Cigarettes,55.8333333333333
+1997,Prince Edward Island,Cigarettes,58.7166666666667
+1998,Prince Edward Island,Cigarettes,62.5916666666667
+1999,Prince Edward Island,Cigarettes,64.0166666666667
+2000,Prince Edward Island,Cigarettes,67.5583333333333
+2001,Prince Edward Island,Cigarettes,77.3333333333333
+2002,Prince Edward Island,Cigarettes,99.9916666666667
+2003,Prince Edward Island,Cigarettes,120
+2004,Prince Edward Island,Cigarettes,132.391666666667
+2005,Prince Edward Island,Cigarettes,137.008333333333
+2006,Prince Edward Island,Cigarettes,141.8
+2007,Prince Edward Island,Cigarettes,145.316666666667
+2008,Prince Edward Island,Cigarettes,150.091666666667
+2009,Prince Edward Island,Cigarettes,161.608333333333
+2010,Prince Edward Island,Cigarettes,165.933333333333
+2011,Prince Edward Island,Cigarettes,174.933333333333
+2012,Prince Edward Island,Cigarettes,180.291666666667
+2013,Prince Edward Island,Cigarettes,188.383333333333
+2014,Prince Edward Island,Cigarettes,198.316666666667
+2015,Prince Edward Island,Cigarettes,212.283333333333
+2016,Prince Edward Island,Cigarettes,221.175
+2017,Prince Edward Island,Cigarettes,229.2
+2018,Prince Edward Island,Cigarettes,239.708333333333
+1988,Nova Scotia,Cigarettes,41.4666666666667
+1989,Nova Scotia,Cigarettes,50.8166666666667
+1990,Nova Scotia,Cigarettes,63.1
+1991,Nova Scotia,Cigarettes,78.85
+1992,Nova Scotia,Cigarettes,81.6916666666667
+1993,Nova Scotia,Cigarettes,82.3
+1994,Nova Scotia,Cigarettes,61.1
+1995,Nova Scotia,Cigarettes,55.225
+1996,Nova Scotia,Cigarettes,56.35
+1997,Nova Scotia,Cigarettes,59.75
+1998,Nova Scotia,Cigarettes,63.2
+1999,Nova Scotia,Cigarettes,64.3916666666667
+2000,Nova Scotia,Cigarettes,67.4916666666667
+2001,Nova Scotia,Cigarettes,77.5833333333333
+2002,Nova Scotia,Cigarettes,100
+2003,Nova Scotia,Cigarettes,122.058333333333
+2004,Nova Scotia,Cigarettes,133.041666666667
+2005,Nova Scotia,Cigarettes,137.7
+2006,Nova Scotia,Cigarettes,140.733333333333
+2007,Nova Scotia,Cigarettes,149.466666666667
+2008,Nova Scotia,Cigarettes,153
+2009,Nova Scotia,Cigarettes,167.675
+2010,Nova Scotia,Cigarettes,179.916666666667
+2011,Nova Scotia,Cigarettes,185.391666666667
+2012,Nova Scotia,Cigarettes,188.025
+2013,Nova Scotia,Cigarettes,194.658333333333
+2014,Nova Scotia,Cigarettes,212.016666666667
+2015,Nova Scotia,Cigarettes,221.191666666667
+2016,Nova Scotia,Cigarettes,232.108333333333
+2017,Nova Scotia,Cigarettes,242.291666666667
+2018,Nova Scotia,Cigarettes,250.008333333333
+1988,New Brunswick,Cigarettes,44.5333333333333
+1989,New Brunswick,Cigarettes,58.2166666666667
+1990,New Brunswick,Cigarettes,67.1
+1991,New Brunswick,Cigarettes,88.775
+1992,New Brunswick,Cigarettes,86.125
+1993,New Brunswick,Cigarettes,84.3916666666667
+1994,New Brunswick,Cigarettes,60.4583333333333
+1995,New Brunswick,Cigarettes,57.425
+1996,New Brunswick,Cigarettes,57.7
+1997,New Brunswick,Cigarettes,60.6083333333333
+1998,New Brunswick,Cigarettes,64.15
+1999,New Brunswick,Cigarettes,65.1916666666667
+2000,New Brunswick,Cigarettes,68.025
+2001,New Brunswick,Cigarettes,78.8666666666667
+2002,New Brunswick,Cigarettes,99.9916666666667
+2003,New Brunswick,Cigarettes,122.641666666667
+2004,New Brunswick,Cigarettes,125.225
+2005,New Brunswick,Cigarettes,126.891666666667
+2006,New Brunswick,Cigarettes,129.266666666667
+2007,New Brunswick,Cigarettes,133.258333333333
+2008,New Brunswick,Cigarettes,135.891666666667
+2009,New Brunswick,Cigarettes,138.566666666667
+2010,New Brunswick,Cigarettes,140.458333333333
+2011,New Brunswick,Cigarettes,161.55
+2012,New Brunswick,Cigarettes,170.058333333333
+2013,New Brunswick,Cigarettes,178.3
+2014,New Brunswick,Cigarettes,189.7
+2015,New Brunswick,Cigarettes,194.108333333333
+2016,New Brunswick,Cigarettes,218.291666666667
+2017,New Brunswick,Cigarettes,247.475
+2018,New Brunswick,Cigarettes,259.358333333333
+1988,Quebec,Cigarettes,46.8166666666667
+1989,Quebec,Cigarettes,53.3666666666667
+1990,Quebec,Cigarettes,60.475
+1991,Quebec,Cigarettes,80.7083333333333
+1992,Quebec,Cigarettes,89.9
+1993,Quebec,Cigarettes,91.05
+1994,Quebec,Cigarettes,46.9416666666667
+1995,Quebec,Cigarettes,46.35
+1996,Quebec,Cigarettes,48.525
+1997,Quebec,Cigarettes,53.8583333333333
+1998,Quebec,Cigarettes,58.9833333333333
+1999,Quebec,Cigarettes,61.0416666666667
+2000,Quebec,Cigarettes,65.3416666666667
+2001,Quebec,Cigarettes,76.5
+2002,Quebec,Cigarettes,100
+2003,Quebec,Cigarettes,115.608333333333
+2004,Quebec,Cigarettes,122.7
+2005,Quebec,Cigarettes,125.191666666667
+2006,Quebec,Cigarettes,127.141666666667
+2007,Quebec,Cigarettes,132.283333333333
+2008,Quebec,Cigarettes,134.85
+2009,Quebec,Cigarettes,139.616666666667
+2010,Quebec,Cigarettes,141.625
+2011,Quebec,Cigarettes,145.558333333333
+2012,Quebec,Cigarettes,149.55
+2013,Quebec,Cigarettes,159.733333333333
+2014,Quebec,Cigarettes,174.616666666667
+2015,Quebec,Cigarettes,183.591666666667
+2016,Quebec,Cigarettes,189.558333333333
+2017,Quebec,Cigarettes,197.325
+2018,Quebec,Cigarettes,210.425
+1988,Ontario,Cigarettes,49.925
+1989,Ontario,Cigarettes,59.6083333333333
+1990,Ontario,Cigarettes,68.0416666666667
+1991,Ontario,Cigarettes,90.1083333333333
+1992,Ontario,Cigarettes,95.825
+1993,Ontario,Cigarettes,95.75
+1994,Ontario,Cigarettes,53.45
+1995,Ontario,Cigarettes,51.1666666666667
+1996,Ontario,Cigarettes,52.0333333333333
+1997,Ontario,Cigarettes,55.85
+1998,Ontario,Cigarettes,59.6166666666667
+1999,Ontario,Cigarettes,61.2
+2000,Ontario,Cigarettes,65.075
+2001,Ontario,Cigarettes,76.1166666666667
+2002,Ontario,Cigarettes,100
+2003,Ontario,Cigarettes,116.308333333333
+2004,Ontario,Cigarettes,129.733333333333
+2005,Ontario,Cigarettes,137.383333333333
+2006,Ontario,Cigarettes,143.708333333333
+2007,Ontario,Cigarettes,148.35
+2008,Ontario,Cigarettes,152
+2009,Ontario,Cigarettes,155.175
+2010,Ontario,Cigarettes,161.791666666667
+2011,Ontario,Cigarettes,168.5
+2012,Ontario,Cigarettes,168.766666666667
+2013,Ontario,Cigarettes,167.866666666667
+2014,Ontario,Cigarettes,185.9
+2015,Ontario,Cigarettes,196.591666666667
+2016,Ontario,Cigarettes,209.125
+2017,Ontario,Cigarettes,221.375
+2018,Ontario,Cigarettes,246.491666666667
+1988,Manitoba,Cigarettes,39.3583333333333
+1989,Manitoba,Cigarettes,48.1416666666667
+1990,Manitoba,Cigarettes,53.6333333333333
+1991,Manitoba,Cigarettes,67.5416666666667
+1992,Manitoba,Cigarettes,71.225
+1993,Manitoba,Cigarettes,71.8916666666667
+1994,Manitoba,Cigarettes,64.4583333333333
+1995,Manitoba,Cigarettes,64.5666666666666
+1996,Manitoba,Cigarettes,65.1083333333333
+1997,Manitoba,Cigarettes,66.5416666666667
+1998,Manitoba,Cigarettes,68.0083333333333
+1999,Manitoba,Cigarettes,69.0916666666667
+2000,Manitoba,Cigarettes,71.2
+2001,Manitoba,Cigarettes,77.8166666666667
+2002,Manitoba,Cigarettes,100
+2003,Manitoba,Cigarettes,116.791666666667
+2004,Manitoba,Cigarettes,123.983333333333
+2005,Manitoba,Cigarettes,127.5
+2006,Manitoba,Cigarettes,130.666666666667
+2007,Manitoba,Cigarettes,135.175
+2008,Manitoba,Cigarettes,134.35
+2009,Manitoba,Cigarettes,138.391666666667
+2010,Manitoba,Cigarettes,147.783333333333
+2011,Manitoba,Cigarettes,153.391666666667
+2012,Manitoba,Cigarettes,162.2
+2013,Manitoba,Cigarettes,177.3
+2014,Manitoba,Cigarettes,191.733333333333
+2015,Manitoba,Cigarettes,198.875
+2016,Manitoba,Cigarettes,203.533333333333
+2017,Manitoba,Cigarettes,209.491666666667
+2018,Manitoba,Cigarettes,221.333333333333
+1988,Saskatchewan,Cigarettes,37.3833333333333
+1989,Saskatchewan,Cigarettes,44.4916666666667
+1990,Saskatchewan,Cigarettes,48.325
+1991,Saskatchewan,Cigarettes,61.1666666666667
+1992,Saskatchewan,Cigarettes,67.3
+1993,Saskatchewan,Cigarettes,71.025
+1994,Saskatchewan,Cigarettes,63.7166666666667
+1995,Saskatchewan,Cigarettes,63.4333333333333
+1996,Saskatchewan,Cigarettes,63.8916666666667
+1997,Saskatchewan,Cigarettes,65.225
+1998,Saskatchewan,Cigarettes,66.6083333333333
+1999,Saskatchewan,Cigarettes,67.8416666666667
+2000,Saskatchewan,Cigarettes,68.875
+2001,Saskatchewan,Cigarettes,72.3916666666667
+2002,Saskatchewan,Cigarettes,100
+2003,Saskatchewan,Cigarettes,114.675
+2004,Saskatchewan,Cigarettes,121.808333333333
+2005,Saskatchewan,Cigarettes,124.7
+2006,Saskatchewan,Cigarettes,128.533333333333
+2007,Saskatchewan,Cigarettes,133.433333333333
+2008,Saskatchewan,Cigarettes,136.675
+2009,Saskatchewan,Cigarettes,136.866666666667
+2010,Saskatchewan,Cigarettes,145.125
+2011,Saskatchewan,Cigarettes,147.241666666667
+2012,Saskatchewan,Cigarettes,147.683333333333
+2013,Saskatchewan,Cigarettes,157.408333333333
+2014,Saskatchewan,Cigarettes,169.283333333333
+2015,Saskatchewan,Cigarettes,173.958333333333
+2016,Saskatchewan,Cigarettes,179.108333333333
+2017,Saskatchewan,Cigarettes,191.075
+2018,Saskatchewan,Cigarettes,203.291666666667
+1988,Alberta,Cigarettes,35.4583333333333
+1989,Alberta,Cigarettes,42.4166666666667
+1990,Alberta,Cigarettes,49.3916666666667
+1991,Alberta,Cigarettes,64.0666666666667
+1992,Alberta,Cigarettes,67.5166666666667
+1993,Alberta,Cigarettes,67.7833333333333
+1994,Alberta,Cigarettes,59.4583333333333
+1995,Alberta,Cigarettes,59.0083333333333
+1996,Alberta,Cigarettes,59.3833333333333
+1997,Alberta,Cigarettes,60.875
+1998,Alberta,Cigarettes,62.35
+1999,Alberta,Cigarettes,63.1916666666667
+2000,Alberta,Cigarettes,63.9
+2001,Alberta,Cigarettes,66.7333333333333
+2002,Alberta,Cigarettes,99.9833333333333
+2003,Alberta,Cigarettes,115.316666666667
+2004,Alberta,Cigarettes,118.708333333333
+2005,Alberta,Cigarettes,120.208333333333
+2006,Alberta,Cigarettes,122.325
+2007,Alberta,Cigarettes,133.783333333333
+2008,Alberta,Cigarettes,137.775
+2009,Alberta,Cigarettes,141.425
+2010,Alberta,Cigarettes,142.991666666667
+2011,Alberta,Cigarettes,143.958333333333
+2012,Alberta,Cigarettes,145.075
+2013,Alberta,Cigarettes,146.3
+2014,Alberta,Cigarettes,154.158333333333
+2015,Alberta,Cigarettes,168.375
+2016,Alberta,Cigarettes,183.516666666667
+2017,Alberta,Cigarettes,189
+2018,Alberta,Cigarettes,197.775
+1988,British Columbia,Cigarettes,37.8166666666667
+1989,British Columbia,Cigarettes,44.6666666666667
+1990,British Columbia,Cigarettes,50.7583333333333
+1991,British Columbia,Cigarettes,65.6666666666667
+1992,British Columbia,Cigarettes,75.925
+1993,British Columbia,Cigarettes,79.1166666666667
+1994,British Columbia,Cigarettes,71.475
+1995,British Columbia,Cigarettes,71.5
+1996,British Columbia,Cigarettes,72.4583333333333
+1997,British Columbia,Cigarettes,74.3166666666667
+1998,British Columbia,Cigarettes,75.3666666666667
+1999,British Columbia,Cigarettes,76.3083333333333
+2000,British Columbia,Cigarettes,77.2416666666667
+2001,British Columbia,Cigarettes,79.6666666666667
+2002,British Columbia,Cigarettes,100.016666666667
+2003,British Columbia,Cigarettes,114.875
+2004,British Columbia,Cigarettes,121.65
+2005,British Columbia,Cigarettes,123.025
+2006,British Columbia,Cigarettes,124.791666666667
+2007,British Columbia,Cigarettes,129.75
+2008,British Columbia,Cigarettes,130.741666666667
+2009,British Columbia,Cigarettes,135.591666666667
+2010,British Columbia,Cigarettes,141.55
+2011,British Columbia,Cigarettes,150.216666666667
+2012,British Columbia,Cigarettes,150.25
+2013,British Columbia,Cigarettes,150.275
+2014,British Columbia,Cigarettes,165.758333333333
+2015,British Columbia,Cigarettes,172.966666666667
+2016,British Columbia,Cigarettes,176.8
+2017,British Columbia,Cigarettes,183.016666666667
+2018,British Columbia,Cigarettes,204.75
